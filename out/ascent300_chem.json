@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "m6ulvpaf",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 2, 3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "A computed (VSEPR); B-E curated; statement C text truncated in source extraction"
+  },
+  {
+    "id": "m6rlr6nx",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII Ch.10"
+  },
+  {
+    "id": "m9ghxn8x",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "free-ion high-spin unpaired electrons"
+  },
+  {
+    "id": "m6w9nzt0",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "VSEPR shapes of both members of each pair"
+  },
+  {
+    "id": "m6ulv930",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive lanthanoid chemistry"
+  },
+  {
+    "id": "m9gxges1",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvb5mn",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "explanation's list is an image; no explanation value available"
+  },
+  {
+    "id": "m6ulvpvl",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "LCAO allowed iff same symmetry about the internuclear (z) axis"
+  },
+  {
+    "id": "m6w9nzrv",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{1, 4, 5}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "n = equatorial lone pairs of ClF3 = 2"
+  },
+  {
+    "id": "m6srmyge",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9e5j4cy",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "24",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "permutations"
+  },
+  {
+    "id": "m9gxgbtk",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "fat-soluble vitamins A, D, E, K"
+  },
+  {
+    "id": "m9gxgbh6",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "sqrt(15)",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 4: MATCH",
+    "notes": [
+      "rounding: exact 3.87298 -> 4",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "enthalpies of atomisation from NCERT XII Table 8.2 (Co 425 highest); Co2+ d7 -> sqrt(15) = 3.87"
+  },
+  {
+    "id": "m6w9nzr0",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "ligand-independence computed (Oh high- vs low-spin filling); bead colours curated"
+  },
+  {
+    "id": "m9fnus9d",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "reaction identification curated; O count computed"
+  },
+  {
+    "id": "m9gxgc8q",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XII 8.3)"
+  },
+  {
+    "id": "m9ghxnoz",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{1, 4}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "MO theory; S2/Cl2 treated as O2/F2 analogues (3s/3p)"
+  },
+  {
+    "id": "m6rp62gr",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3124",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "experimental data, curated"
+  },
+  {
+    "id": "m6qp1wim",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4123",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6v42g9h",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XI 4.5)"
+  },
+  {
+    "id": "m9em61gf",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "VSEPR hybridization"
+  },
+  {
+    "id": "m9e5j4f8",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "different bond lengths <=> bonds on symmetry-inequivalent sites (axial vs equatorial)"
+  },
+  {
+    "id": "m6rlxhp4",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 3, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9e5j9ov",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "3421",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "List-II counts pi bond pairs: SO2 4:1 = 2 sigma + 2 pi (expanded-octet S=O structure, NCERT); sigma-only counting would give 2:1, which is not in List-II"
+  },
+  {
+    "id": "m9e5ja7r",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9ghxnwx",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED",
+    "derived": "33",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 33: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "sequence from the stem; G-C 3, A-T 2"
+  },
+  {
+    "id": "m9e5j9s5",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "oxide acid-base nature curated"
+  },
+  {
+    "id": "m6ulvplb",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9dunnwm",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9duiucn",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "3421",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "values computed by the rule engine"
+  },
+  {
+    "id": "m9fnus4d",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1, 2, 5}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "sqrt(24) = 4.899 -> 4.9"
+  },
+  {
+    "id": "m6w9o4nh",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9elqyz2",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "0",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qlgmot",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "12",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 12: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Lewis structure O=N-O(-)"
+  },
+  {
+    "id": "m6ulvdu9",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 3, 4}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "STEM DEFECT: 'ribose present in DNA' - DNA contains 2-deoxyribose; truths hold for both"
+  },
+  {
+    "id": "m6qk2aop",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 3, 4}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII Table 10.2"
+  },
+  {
+    "id": "m6v42tdx",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "printed 2.84 for sqrt(8) = 2.828 (tolerance 0.02; List-II values are well separated)"
+  },
+  {
+    "id": "m6srn66j",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "4213",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Lewis-structure octet classification (NCERT XI 4.3 conventions; AlCl3 as monomer)"
+  },
+  {
+    "id": "m6t9xwyg",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvbrfa",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6t9yfuy",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "chromate-dichromate equilibrium (NCERT XII 8.7)"
+  },
+  {
+    "id": "m6t9xwuz",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4312",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6srmtnf",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII table of colours of aquated 3d ions"
+  },
+  {
+    "id": "m6rp6jyr",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "11",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 11: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Nb 4d4 5s1, Ru 4d7 5s1 (tabulated exceptions)"
+  },
+  {
+    "id": "m6qvb8sd",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1, 2}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "4f^n of lanthanoid ions"
+  },
+  {
+    "id": "m6qrgsyy",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "159687/1000",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 160: MATCH",
+    "notes": [
+      "rounding: exact 159.687 -> 160",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "atomic masses not given in stem: IUPAC values used"
+  },
+  {
+    "id": "m6qpcoxo",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "melting-point data curated"
+  },
+  {
+    "id": "m6rlt43b",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "oxidation state computed"
+  },
+  {
+    "id": "m9dunozb",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "filter non-zero dipole, maximise central lone pairs (ClF3), hybridization"
+  },
+  {
+    "id": "m9duns8v",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "identification of XeOF4 curated; shape computed"
+  },
+  {
+    "id": "m9e5j5ry",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2000/87",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 23: MATCH",
+    "notes": [
+      "rounding: exact 22.9885 -> 23",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "molar conductivity"
+  },
+  {
+    "id": "m9fnus6t",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "14532",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "data, curated"
+  },
+  {
+    "id": "m9fbg4fr",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "electrolysis rules, curated"
+  },
+  {
+    "id": "m9ghxnaj",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "NO OPTION CORRECT",
+    "derived": "2420",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "QUARANTINED_KEY_DISAGREEMENT"
+    ],
+    "numerical": "",
+    "notes": [
+      "key source is provisional: compared, but an official key is still required",
+      "options.cardinality=FAILED: single-correct item has 0 correct options []",
+      "key.matches_derivation=FAILED: declared ['D'] but derivation gives []"
+    ],
+    "file": "chem.py",
+    "note": "options encoded as 1000*x1+100*y1+10*x2+y2. Under the IUPAC convention (anode = oxidation) the answer (+2,+4,+2,0) matches NO option; key D (+2,0,+2,+4) uses discharge-mode electrode names"
+  },
+  {
+    "id": "m9dunrnc",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "21354",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "experimental pKb data, curated"
+  },
+  {
+    "id": "m9e5j4rt",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "327/10",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "0.1 mol x 327 g/mol = 32.7 g; printed option 33 (rounded)"
+  },
+  {
+    "id": "m6qkqo0m",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qlella",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 3}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qoow0u",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "each option's E - E0 written with logs expanded (Ag = [Ag+], Mg = [Mg2+])"
+  },
+  {
+    "id": "m6qp5l8v",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XII 2.4)"
+  },
+  {
+    "id": "m6qpiv13",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "highest E0(red) -> strongest oxidant"
+  },
+  {
+    "id": "m6qvb15l",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvbchf",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "324/965",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Faraday's law"
+  },
+  {
+    "id": "m6rp6jes",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6ulvjab",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6rmra42",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "193/100",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 2: MATCH",
+    "notes": [
+      "rounding: exact 1.93 -> 2",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "I = 1.93 A"
+  },
+  {
+    "id": "m6srmyb5",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "17/10",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Latimer diagram; n checked by oxidation states"
+  },
+  {
+    "id": "m6t9yeyy",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "cells as written: left = anode, right = cathode"
+  },
+  {
+    "id": "m6rm3m6z",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6ulv91f",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "dG additivity: E(Fe3+/Fe2+) = 3z - 2y"
+  },
+  {
+    "id": "m6v42ikg",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "lowest E0(red) -> its reduced form is the strongest reductant"
+  },
+  {
+    "id": "m9dunp3y",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "E0(quinhydrone) = 0.70 V assumed (image)"
+  },
+  {
+    "id": "m9dv7asx",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4167/413",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 10: MATCH",
+    "notes": [
+      "rounding: exact 10.0896 -> 10",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "pH = 10.08"
+  },
+  {
+    "id": "m9e5jawj",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "400",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 400: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "inert-electrode assumption"
+  }
+]

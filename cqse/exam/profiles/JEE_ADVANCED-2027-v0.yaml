@@ -1,0 +1,13 @@
+# Only the exam date (23 May 2027) and on-screen calculator are announced
+# (IIT Delhi press release, 13 Nov 2026). Formats/marking NOT published.
+# Status PROVISIONAL -> generation and exam assembly are blocked.
+profile_id: JEE_ADVANCED-2027-v0
+exam: JEE_ADVANCED
+year: 2027
+version: 0
+status: PROVISIONAL
+source_url: "https://home.iitd.ac.in/show.php?id=494&in_sections=Press"
+last_verified: "2026-11-14"
+verified_by: "blueprint research check"
+notes: "Ingest official information brochure when published. Do not copy previous-year patterns."
+subjects: {}

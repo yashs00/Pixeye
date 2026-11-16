@@ -1,0 +1,121 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+  UNKNOWN
+}
+
+enum QuestionType {
+  MCQ_SINGLE
+  MCQ_MULTIPLE
+  NUMERICAL
+  INTEGER
+  OTHER
+}
+
+enum ReviewStatus {
+  PENDING_REVIEW
+  VERIFIED
+  REJECTED
+  UNPUBLISHED
+}
+
+model Question {
+  id              String       @id @default(uuid())
+  externalId      String
+  sourceName      String
+  exam            String
+  subject         String
+  chapter         String
+  topic           String?
+  year            Int
+  examDate        DateTime?
+  paperTitle      String?
+  difficulty      Difficulty   @default(UNKNOWN)
+  questionType    QuestionType @default(MCQ_SINGLE)
+  questionContent Json
+  options         Json
+  correctAnswers  Json
+  answer          Json?
+  explanation     Json?
+  media           Json
+  sourceMetadata  Json
+  reviewStatus    ReviewStatus @default(PENDING_REVIEW)
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime     @updatedAt
+
+  @@unique([sourceName, externalId])
+  @@index([subject])
+  @@index([chapter])
+  @@index([year])
+  @@index([difficulty])
+  @@index([questionType])
+  @@index([reviewStatus])
+  @@index([externalId])
+}
+
+model Subject {
+  id        String    @id @default(uuid())
+  code      String    @unique
+  name      String
+  icon      String?
+  chapters  Chapter[]
+  createdAt DateTime  @default(now())
+}
+
+model Chapter {
+  id        String   @id @default(uuid())
+  subjectId String
+  subject   Subject  @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  name      String
+  slug      String
+  topics    Topic[]
+  createdAt DateTime @default(now())
+
+  @@unique([subjectId, name])
+}
+
+model Topic {
+  id        String   @id @default(uuid())
+  chapterId String
+  chapter   Chapter  @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  name      String
+  slug      String
+  createdAt DateTime @default(now())
+
+  @@unique([chapterId, name])
+}
+
+model ImportJob {
+  id              String    @id @default(uuid())
+  source          String
+  status          String    @default("PENDING") // PENDING, RUNNING, COMPLETED, FAILED
+  startedAt       DateTime  @default(now())
+  completedAt     DateTime?
+  totalDiscovered Int       @default(0)
+  totalImported   Int       @default(0)
+  totalFailed     Int       @default(0)
+  errorLog        Json?
+  createdAt       DateTime  @default(now())
+}
+
+model QuestionSelection {
+  id         String   @id @default(uuid())
+  sessionId  String
+  questionId String
+  metadata   Json?
+  createdAt  DateTime @default(now())
+
+  @@unique([sessionId, questionId])
+  @@index([sessionId])
+}
+

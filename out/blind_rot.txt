@@ -1,0 +1,129 @@
+JtkUq44cynQYPh0c                   AGREE           engine=option ['A'] (value 1/2)                                     key=A
+74sEsWoySBVGwUIk                   AGREE           engine=option ['C'] (value 7/19)                                    key=C
+atNumTaIjE3kMyJr                   AGREE           engine=option ['D'] (value {4})                                     key=D
+KZnaV6RylgRhrevz                   AGREE           engine=option ['A'] (value 1/4)                                     key=A
+CIUadGcAS8eenG8f                   AGREE           engine=option ['D'] (value {4})                                     key=D
+V3JegbNrsTWtXNtV                   AGREE           engine=option ['D'] (value 64)                                      key=D
+vnOj5CKUn7CTtjDi                   AGREE           engine=option ['A'] (value {1})                                     key=A
+2yrP77y91dEoBdH3                   AGREE           engine=option ['B'] (value {2})                                     key=B
+TwPowX0a7PgaEvAY                   AGREE           engine=option ['C'] (value 1/2)                                     key=C
+nbiRKpbN7QLxHsp0                   AGREE           engine=option ['C'] (value 2/5)                                     key=C
+WH2jIqhtfbspNMF1                   AGREE           engine=option ['C'] (value 3)                                       key=C
+5l4RYg5NGcZktK2L                   AGREE           engine=option ['D'] (value 7/13)                                    key=D
+KQJHwKrZeCnzHTDE                   AGREE           engine=option ['B'] (value 7/10)                                    key=B
+QQ11TAciudDuQhyM                   AGREE           engine=option ['D'] (value {4})                                     key=D
+ZTrPc4vdtmcrBxoR                   AGREE           engine=option ['D'] (value 2/3)                                     key=D
+22tooMeZBtDgsgfY                   AGREE           engine=option ['C'] (value 1/6)                                     key=C
+xmtiN91wgRQTentL                   AGREE           engine=option ['A'] (value {1})                                     key=A
+SkXe9OycfhSpUpyH                   AGREE           engine=option ['B'] (value 2/3)                                     key=B
+0P1oWpeepv5X83HE                   AGREE           engine=option ['C'] (value {3})                                     key=C
+pArPnFOcPLv5DIR5                   AGREE           engine=option ['C'] (value 1/2)                                     key=C
+2KZ8qDYvVby0twN7                   AGREE           engine=option ['C'] (value {3})                                     key=C
+a6lKQHUSUq7mYL0t                   DISAGREE        engine=no option matches value 4*sqrt(3)/(27*pi)                    key=A
+81boHpwGhVR7Pk6TRTQBO              AGREE           engine=option ['D'] (value 84/pi)                                   key=D
+MJRqack07GUqVV3WcQzZQ              AGREE           engine=option ['C'] (value {3})                                     key=C
+vZk3cBXR23HJs2Pg                   AGREE           engine=option ['B'] (value sqrt(6)/2)                               key=B
+EZjw0xKukrq96OTweT4Ds              AGREE           engine=option ['D'] (value 2)                                       key=D
+TiZmOQnPzFnqfLMyGc5uA              AGREE           engine=option ['A'] (value 4/3 + 15*sqrt(2)/14)                     key=A
+oZMeF2P5AgHl84kp3cyQY              AGREE           engine=option ['D'] (value 2)                                       key=D
+ANiozDvSSiYK3aYNBxrC5              AGREE           engine=option ['D'] (value 2)                                       key=D
+OcTjHmAdk2nhPme9embPM              AGREE           engine=option ['C'] (value 7/25)                                    key=C
+byPYPbwFgB0CXsY4IZ18hoxe66ijvzn0x28 AGREE           engine=option ['C'] (value 2/3)                                     key=C
+Car9pLGRIDoZfpmHFy18hoxe66ijvzn5oc0 DISAGREE        engine=no option matches value -1/24                                key=A
+lIeeCoZEUWeWBWBfNL18hoxe66ijvzncp98 AGREE           engine=option ['B'] (value 280)                                     key=B
+z1qdq6HCwPf3AM1IfK3rsa0w2w9jwzjh440 AGREE           engine=option ['B'] (value 140)                                     key=B
+n2loNcUjIP1k2lGyy23rsa0w2w9jwzk8ih4 AGREE           engine=option ['B'] (value -48)                                     key=B
+VK6Sm9R4lqQmcdH1T63rsa0w2w9jx3mfm29 AGREE           engine=option ['A'] (value 299970001/99980001 - 199990000*cos(1/100 key=A
+8yqzWUAQ844P7o6At6Iif              AGREE           engine=option ['C'] (value 8/5)                                     key=C
+0jF0u1j47RGMUIQmtSBcR              AGREE           engine=option ['C'] (value 1/2)                                     key=C
+99ytypmVzB3HdMTD16VFF              AGREE           engine=option ['D'] (value 2/3)                                     key=D
+ZOIYD1k9JaLRduLLgyo8B              AGREE           engine=option ['B'] (value 2/3)                                     key=B
+7IgcOr0hYSrQ4geKwMzue              AGREE           engine=option ['B'] (value pi/6)                                    key=B
+ysXBZyKjbUp7UJb3f0DUM              AGREE           engine=option ['A'] (value 5*sqrt(10))                              key=A
+BE7hgZymN0E2d9uhFNjgy2xukf6jrqfg   AGREE           engine=20                                                           key=explanation:20 (medium)
+qgdOpGBjkYAFKHd8zUjgy2xukfaj3opk   AGREE           engine=option ['B'] (value 2)                                       key=B
+uR7FEcBbUtA0FRhi44jgy2xukff3xry6   AGREE           engine=option ['D'] (value 3/4)                                     key=D
+60q1AvE0F7mWohQowPjgy2xukfhqolwj   AGREE           engine=195                                                          key=explanation:195 (medium)
+zT4AYz1QoP2zM4t8cfjgy2xukfl1siq0   AGREE           engine=option ['B'] (value 2*sqrt(3)/3)                             key=B
+VNPKX8Peju0Jhnpzopjgy2xukg0bmoa7   AGREE           engine=option ['C'] (value 7/18)                                    key=C
+WSwHvNT1JkSyc3iWsGjgy2xukf14dc5f   AGREE           engine=option ['B'] (value sqrt(6)/2)                               key=B
+2p0E2TIZzrOYy5YhX67k9k2k5djt7ib    AGREE           engine=option ['C'] (value sqrt(21)/12)                             key=C
+mmd27YeQWLKUu4xQ2u7k9k2k5f5eapa    AGREE           engine=option ['A'] (value 2349*pi/10)                              key=A
+xgguUJAR2MMkuQ4aev7k9k2k5gveqgd    AGREE           engine=option ['A'] (value 3*sqrt(2)/7)                             key=A
+9jCyQhEAs6eWjkTr4Q7k9k2k5hhldlt    AGREE           engine=option ['C'] (value 7/8000)                                  key=C
+hdFSrrJ2kxtBiY45N57k9k2k5iodr83    AGREE           engine=4                                                            key=explanation:4 (medium)
+Z1v8NC8U95YrjXGxT6jgy2xukexxod6m   AGREE           engine=option ['A'] (value 20/3)                                    key=A
+bEtWbedAMiaQUiRiUYjgy2xukf258opx   AGREE           engine=9                                                            key=explanation:9 (medium)
+D69V8gdvhXmgTfrdPW1klrifuhg        AGREE           engine=option ['A'] (value {1})                                     key=A
+umi1KK6mmaGVfwcv5z1klrp546p        NO REFERENCE    engine=8                                                            key=explanation states no clear final number
+LF4awbZatQIQqlimkF1klthd0p0        AGREE           engine=option ['D'] (value 122/5)                                   key=D
+WuHXW7gUgdMYj1BN9V1kluncx9i        AGREE           engine=option ['B'] (value 240/11)                                  key=B
+EBY84tAudUadnrGYPm1kmiq73xb        AGREE           engine=20                                                           key=explanation:20 (medium)
+16kFcexlMjLkKgTlXA1kmj3ys5s        AGREE           engine=728                                                          key=explanation:728 (medium)
+IerYEirovFn3oJiZwY1kmkr269n        AGREE           engine=option ['C'] (value 7/13)                                    key=C
+GggYuVILuLH4LnAfDQ1kmlvtyoe        AGREE           engine=option ['D'] (value 1)                                       key=D
+1krpq8sv4                          AGREE           engine=2                                                            key=explanation:2 (medium)
+1krqchuow                          AGREE           engine=option ['B'] (value {2})                                     key=B
+1krqf0jpc                          NO REFERENCE    engine=3                                                            key=explanation states no clear final number
+1krqfvxc1                          AGREE           engine=200                                                          key=explanation:200 (medium)
+1krsu72qd                          AGREE           engine=option ['C'] (value {3})                                     key=C
+1krsy2kia                          AGREE           engine=2                                                            key=explanation:02 (medium)
+1krudvskt                          AGREE           engine=option ['B'] (value 4)                                       key=B
+1krunysm5                          AGREE           engine=10                                                           key=explanation:10 (medium)
+1krwcrwzr                          NO REFERENCE    engine=4                                                            key=explanation states no clear final number
+1krytnal1                          AGREE           engine=option ['C'] (value 3421)                                    key=C
+1kte0gtvo                          AGREE           engine=option ['D'] (value 2/3)                                     key=D
+1ktfjwrjv                          AGREE           engine=option ['C'] (value 48/5)                                    key=C
+1kth5aj8v                          AGREE           engine=option ['B'] (value {2})                                     key=B
+1ktjn2zdu                          AGREE           engine=option ['C'] (value 381/20)                                  key=C
+1ktmwpjl2                          AGREE           engine=6                                                            key=explanation:6 (medium)
+1l54vvmmr                          AGREE           engine=8                                                            key=explanation:8 (medium)
+1l55joigw                          AGREE           engine=option ['B'] (value 88/3)                                    key=B
+1l568o323                          AGREE           engine=option ['A'] (value 2143)                                    key=A
+1l56a962e                          NO REFERENCE    engine=91                                                           key=explanation states no clear final number
+1l56uiw7b                          AGREE           engine=option ['C'] (value 2)                                       key=C
+1l58bgm1n                          AGREE           engine=option ['C'] (value 14/13)                                   key=C
+1l58hgpl0                          AGREE           engine=option ['B'] (value 2/7)                                     key=B
+1l59pv08s                          AGREE           engine=5                                                            key=explanation:5 (medium)
+1l5ak88g7                          AGREE           engine=option ['B'] (value -10 + 5*sqrt(3) + 10*sqrt(2))            key=B
+1l5c4u6zp                          AGREE           engine=6                                                            key=explanation:6 (medium)
+1l6dxzpz1                          AGREE           engine=option ['D'] (value sqrt(210)/15)                            key=D
+1l6gnhwwx                          AGREE           engine=5                                                            key=explanation:5 (medium)
+1l6i21mj2                          NO REFERENCE    engine=5                                                            key=explanation states no clear final number
+1l6jk2emh                          NO REFERENCE    engine=18                                                           key=explanation states no clear final number
+1l6rhk51x                          AGREE           engine=option ['C'] (value -17 - 4*sqrt(3) + 19*sqrt(2))            key=C
+1ldnz6bcx                          AGREE           engine=3                                                            key=explanation:3 (medium)
+ldo7la9t                           AGREE           engine=5                                                            key=explanation:5 (medium)
+1ldpmwopd                          NO REFERENCE    engine=10                                                           key=explanation states no clear final number
+1ldr31zsc                          AGREE           engine=3                                                            key=explanation:3 (medium)
+1ldsq2v76                          NO REFERENCE    engine=40                                                           key=explanation states no clear final number
+1ldtzxyz7                          NO REFERENCE    engine=5                                                            key=explanation states no clear final number
+1ldws2rrh                          NO REFERENCE    engine=32                                                           key=explanation states no clear final number
+lgnz71sz                           AGREE           engine=5                                                            key=explanation:5 (medium)
+1lgp0utju                          AGREE           engine=15                                                           key=explanation:15 (high)
+1lgq3lykk                          NO REFERENCE    engine=88/(7*pi)                                                    key=explanation states no clear final number
+1lgrjp53g                          AGREE           engine=2                                                            key=explanation:2 (high)
+1lgsxfqv2                          AGREE           engine=3                                                            key=explanation:3 (high)
+1lguyo8ek                          NO REFERENCE    engine=35                                                           key=explanation states no clear final number
+1lgvr89zh                          AGREE           engine=option ['C'] (value 3)                                       key=C
+1lgvs5aid                          AGREE           engine=3                                                            key=explanation:3 (medium)
+1lh02pimk                          AGREE           engine=1                                                            key=explanation:1 (high)
+1lh25v73h                          NO REFERENCE    engine=176                                                          key=explanation states no clear final number
+1lh31p7nb                          AGREE           engine=5                                                            key=explanation:5 (medium)
+lsanle50                           AGREE           engine=4                                                            key=explanation:4 (medium)
+jaoe38c1lscp2nwn                   AGREE           engine=option ['A'] (value 3)                                       key=A
+jaoe38c1lscpwe1j                   AGREE           engine=7                                                            key=explanation:7 (medium)
+jaoe38c1lsd8digo                   AGREE           engine=8                                                            key=explanation:8 (medium)
+jaoe38c1lsd8itby                   AGREE           engine=53                                                           key=explanation:53 (medium)
+jaoe38c1lsf22kej                   AGREE           engine=10                                                           key=explanation:10 (high)
+jaoe38c1lsfm7qam                   NO REFERENCE    engine=60                                                           key=explanation states no clear final number
+1lsg70wif                          NO REFERENCE    engine=24                                                           key=explanation states no clear final number
+1lsgd0f2p                          AGREE           engine=option ['D'] (value sqrt(3)/16)                              key=D
+luxwdn7o                           AGREE           engine=3                                                            key=explanation:3 (medium)
+luz2uzm2                           AGREE           engine=100                                                          key=explanation:100 (medium)
+lv0vy02i                           NO REFERENCE    engine=7                                                            key=explanation states no clear final number
+lv3vefxa                           AGREE           engine=option ['D'] (value 2/3)                                     key=D
+lv9s25k9                           AGREE           engine=2                                                            key=explanation:2 (medium)
+lvb29eoa                           NO REFERENCE    engine=4                                                            key=explanation states no clear final number
+
+ {'agree': 108, 'disagree': 2, 'unverifiable': 0, 'not formalized': 0, 'no reference value': 17}

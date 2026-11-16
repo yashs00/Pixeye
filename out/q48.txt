@@ -1,0 +1,4 @@
+Timeout (0:00:15)!
+Thread 0x00000001ef6d5300 (most recent call first):
+  File "<lambdifygenerated-3>", line ??? in _lambdifygenerated
+  <invalid frame>

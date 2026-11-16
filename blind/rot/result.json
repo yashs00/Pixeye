@@ -1,0 +1,773 @@
+{
+ "rows": [
+  [
+   "JtkUq44cynQYPh0c",
+   "AGREE",
+   "option ['A'] (value 1/2)",
+   "A"
+  ],
+  [
+   "74sEsWoySBVGwUIk",
+   "AGREE",
+   "option ['C'] (value 7/19)",
+   "C"
+  ],
+  [
+   "atNumTaIjE3kMyJr",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "KZnaV6RylgRhrevz",
+   "AGREE",
+   "option ['A'] (value 1/4)",
+   "A"
+  ],
+  [
+   "CIUadGcAS8eenG8f",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "V3JegbNrsTWtXNtV",
+   "AGREE",
+   "option ['D'] (value 64)",
+   "D"
+  ],
+  [
+   "vnOj5CKUn7CTtjDi",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "2yrP77y91dEoBdH3",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "TwPowX0a7PgaEvAY",
+   "AGREE",
+   "option ['C'] (value 1/2)",
+   "C"
+  ],
+  [
+   "nbiRKpbN7QLxHsp0",
+   "AGREE",
+   "option ['C'] (value 2/5)",
+   "C"
+  ],
+  [
+   "WH2jIqhtfbspNMF1",
+   "AGREE",
+   "option ['C'] (value 3)",
+   "C"
+  ],
+  [
+   "5l4RYg5NGcZktK2L",
+   "AGREE",
+   "option ['D'] (value 7/13)",
+   "D"
+  ],
+  [
+   "KQJHwKrZeCnzHTDE",
+   "AGREE",
+   "option ['B'] (value 7/10)",
+   "B"
+  ],
+  [
+   "QQ11TAciudDuQhyM",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "ZTrPc4vdtmcrBxoR",
+   "AGREE",
+   "option ['D'] (value 2/3)",
+   "D"
+  ],
+  [
+   "22tooMeZBtDgsgfY",
+   "AGREE",
+   "option ['C'] (value 1/6)",
+   "C"
+  ],
+  [
+   "xmtiN91wgRQTentL",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "SkXe9OycfhSpUpyH",
+   "AGREE",
+   "option ['B'] (value 2/3)",
+   "B"
+  ],
+  [
+   "0P1oWpeepv5X83HE",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "pArPnFOcPLv5DIR5",
+   "AGREE",
+   "option ['C'] (value 1/2)",
+   "C"
+  ],
+  [
+   "2KZ8qDYvVby0twN7",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "a6lKQHUSUq7mYL0t",
+   "DISAGREE",
+   "no option matches value 4*sqrt(3)/(27*pi)",
+   "A"
+  ],
+  [
+   "81boHpwGhVR7Pk6TRTQBO",
+   "AGREE",
+   "option ['D'] (value 84/pi)",
+   "D"
+  ],
+  [
+   "MJRqack07GUqVV3WcQzZQ",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "vZk3cBXR23HJs2Pg",
+   "AGREE",
+   "option ['B'] (value sqrt(6)/2)",
+   "B"
+  ],
+  [
+   "EZjw0xKukrq96OTweT4Ds",
+   "AGREE",
+   "option ['D'] (value 2)",
+   "D"
+  ],
+  [
+   "TiZmOQnPzFnqfLMyGc5uA",
+   "AGREE",
+   "option ['A'] (value 4/3 + 15*sqrt(2)/14)",
+   "A"
+  ],
+  [
+   "oZMeF2P5AgHl84kp3cyQY",
+   "AGREE",
+   "option ['D'] (value 2)",
+   "D"
+  ],
+  [
+   "ANiozDvSSiYK3aYNBxrC5",
+   "AGREE",
+   "option ['D'] (value 2)",
+   "D"
+  ],
+  [
+   "OcTjHmAdk2nhPme9embPM",
+   "AGREE",
+   "option ['C'] (value 7/25)",
+   "C"
+  ],
+  [
+   "byPYPbwFgB0CXsY4IZ18hoxe66ijvzn0x28",
+   "AGREE",
+   "option ['C'] (value 2/3)",
+   "C"
+  ],
+  [
+   "Car9pLGRIDoZfpmHFy18hoxe66ijvzn5oc0",
+   "DISAGREE",
+   "no option matches value -1/24",
+   "A"
+  ],
+  [
+   "lIeeCoZEUWeWBWBfNL18hoxe66ijvzncp98",
+   "AGREE",
+   "option ['B'] (value 280)",
+   "B"
+  ],
+  [
+   "z1qdq6HCwPf3AM1IfK3rsa0w2w9jwzjh440",
+   "AGREE",
+   "option ['B'] (value 140)",
+   "B"
+  ],
+  [
+   "n2loNcUjIP1k2lGyy23rsa0w2w9jwzk8ih4",
+   "AGREE",
+   "option ['B'] (value -48)",
+   "B"
+  ],
+  [
+   "VK6Sm9R4lqQmcdH1T63rsa0w2w9jx3mfm29",
+   "AGREE",
+   "option ['A'] (value 299970001/99980001 - 199990000*cos(1/100)/99980001)",
+   "A"
+  ],
+  [
+   "8yqzWUAQ844P7o6At6Iif",
+   "AGREE",
+   "option ['C'] (value 8/5)",
+   "C"
+  ],
+  [
+   "0jF0u1j47RGMUIQmtSBcR",
+   "AGREE",
+   "option ['C'] (value 1/2)",
+   "C"
+  ],
+  [
+   "99ytypmVzB3HdMTD16VFF",
+   "AGREE",
+   "option ['D'] (value 2/3)",
+   "D"
+  ],
+  [
+   "ZOIYD1k9JaLRduLLgyo8B",
+   "AGREE",
+   "option ['B'] (value 2/3)",
+   "B"
+  ],
+  [
+   "7IgcOr0hYSrQ4geKwMzue",
+   "AGREE",
+   "option ['B'] (value pi/6)",
+   "B"
+  ],
+  [
+   "ysXBZyKjbUp7UJb3f0DUM",
+   "AGREE",
+   "option ['A'] (value 5*sqrt(10))",
+   "A"
+  ],
+  [
+   "BE7hgZymN0E2d9uhFNjgy2xukf6jrqfg",
+   "AGREE",
+   "20",
+   "explanation:20 (medium)"
+  ],
+  [
+   "qgdOpGBjkYAFKHd8zUjgy2xukfaj3opk",
+   "AGREE",
+   "option ['B'] (value 2)",
+   "B"
+  ],
+  [
+   "uR7FEcBbUtA0FRhi44jgy2xukff3xry6",
+   "AGREE",
+   "option ['D'] (value 3/4)",
+   "D"
+  ],
+  [
+   "60q1AvE0F7mWohQowPjgy2xukfhqolwj",
+   "AGREE",
+   "195",
+   "explanation:195 (medium)"
+  ],
+  [
+   "zT4AYz1QoP2zM4t8cfjgy2xukfl1siq0",
+   "AGREE",
+   "option ['B'] (value 2*sqrt(3)/3)",
+   "B"
+  ],
+  [
+   "VNPKX8Peju0Jhnpzopjgy2xukg0bmoa7",
+   "AGREE",
+   "option ['C'] (value 7/18)",
+   "C"
+  ],
+  [
+   "WSwHvNT1JkSyc3iWsGjgy2xukf14dc5f",
+   "AGREE",
+   "option ['B'] (value sqrt(6)/2)",
+   "B"
+  ],
+  [
+   "2p0E2TIZzrOYy5YhX67k9k2k5djt7ib",
+   "AGREE",
+   "option ['C'] (value sqrt(21)/12)",
+   "C"
+  ],
+  [
+   "mmd27YeQWLKUu4xQ2u7k9k2k5f5eapa",
+   "AGREE",
+   "option ['A'] (value 2349*pi/10)",
+   "A"
+  ],
+  [
+   "xgguUJAR2MMkuQ4aev7k9k2k5gveqgd",
+   "AGREE",
+   "option ['A'] (value 3*sqrt(2)/7)",
+   "A"
+  ],
+  [
+   "9jCyQhEAs6eWjkTr4Q7k9k2k5hhldlt",
+   "AGREE",
+   "option ['C'] (value 7/8000)",
+   "C"
+  ],
+  [
+   "hdFSrrJ2kxtBiY45N57k9k2k5iodr83",
+   "AGREE",
+   "4",
+   "explanation:4 (medium)"
+  ],
+  [
+   "Z1v8NC8U95YrjXGxT6jgy2xukexxod6m",
+   "AGREE",
+   "option ['A'] (value 20/3)",
+   "A"
+  ],
+  [
+   "bEtWbedAMiaQUiRiUYjgy2xukf258opx",
+   "AGREE",
+   "9",
+   "explanation:9 (medium)"
+  ],
+  [
+   "D69V8gdvhXmgTfrdPW1klrifuhg",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "umi1KK6mmaGVfwcv5z1klrp546p",
+   "NO REFERENCE",
+   "8",
+   "explanation states no clear final number"
+  ],
+  [
+   "LF4awbZatQIQqlimkF1klthd0p0",
+   "AGREE",
+   "option ['D'] (value 122/5)",
+   "D"
+  ],
+  [
+   "WuHXW7gUgdMYj1BN9V1kluncx9i",
+   "AGREE",
+   "option ['B'] (value 240/11)",
+   "B"
+  ],
+  [
+   "EBY84tAudUadnrGYPm1kmiq73xb",
+   "AGREE",
+   "20",
+   "explanation:20 (medium)"
+  ],
+  [
+   "16kFcexlMjLkKgTlXA1kmj3ys5s",
+   "AGREE",
+   "728",
+   "explanation:728 (medium)"
+  ],
+  [
+   "IerYEirovFn3oJiZwY1kmkr269n",
+   "AGREE",
+   "option ['C'] (value 7/13)",
+   "C"
+  ],
+  [
+   "GggYuVILuLH4LnAfDQ1kmlvtyoe",
+   "AGREE",
+   "option ['D'] (value 1)",
+   "D"
+  ],
+  [
+   "1krpq8sv4",
+   "AGREE",
+   "2",
+   "explanation:2 (medium)"
+  ],
+  [
+   "1krqchuow",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "1krqf0jpc",
+   "NO REFERENCE",
+   "3",
+   "explanation states no clear final number"
+  ],
+  [
+   "1krqfvxc1",
+   "AGREE",
+   "200",
+   "explanation:200 (medium)"
+  ],
+  [
+   "1krsu72qd",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "1krsy2kia",
+   "AGREE",
+   "2",
+   "explanation:02 (medium)"
+  ],
+  [
+   "1krudvskt",
+   "AGREE",
+   "option ['B'] (value 4)",
+   "B"
+  ],
+  [
+   "1krunysm5",
+   "AGREE",
+   "10",
+   "explanation:10 (medium)"
+  ],
+  [
+   "1krwcrwzr",
+   "NO REFERENCE",
+   "4",
+   "explanation states no clear final number"
+  ],
+  [
+   "1krytnal1",
+   "AGREE",
+   "option ['C'] (value 3421)",
+   "C"
+  ],
+  [
+   "1kte0gtvo",
+   "AGREE",
+   "option ['D'] (value 2/3)",
+   "D"
+  ],
+  [
+   "1ktfjwrjv",
+   "AGREE",
+   "option ['C'] (value 48/5)",
+   "C"
+  ],
+  [
+   "1kth5aj8v",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "1ktjn2zdu",
+   "AGREE",
+   "option ['C'] (value 381/20)",
+   "C"
+  ],
+  [
+   "1ktmwpjl2",
+   "AGREE",
+   "6",
+   "explanation:6 (medium)"
+  ],
+  [
+   "1l54vvmmr",
+   "AGREE",
+   "8",
+   "explanation:8 (medium)"
+  ],
+  [
+   "1l55joigw",
+   "AGREE",
+   "option ['B'] (value 88/3)",
+   "B"
+  ],
+  [
+   "1l568o323",
+   "AGREE",
+   "option ['A'] (value 2143)",
+   "A"
+  ],
+  [
+   "1l56a962e",
+   "NO REFERENCE",
+   "91",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l56uiw7b",
+   "AGREE",
+   "option ['C'] (value 2)",
+   "C"
+  ],
+  [
+   "1l58bgm1n",
+   "AGREE",
+   "option ['C'] (value 14/13)",
+   "C"
+  ],
+  [
+   "1l58hgpl0",
+   "AGREE",
+   "option ['B'] (value 2/7)",
+   "B"
+  ],
+  [
+   "1l59pv08s",
+   "AGREE",
+   "5",
+   "explanation:5 (medium)"
+  ],
+  [
+   "1l5ak88g7",
+   "AGREE",
+   "option ['B'] (value -10 + 5*sqrt(3) + 10*sqrt(2))",
+   "B"
+  ],
+  [
+   "1l5c4u6zp",
+   "AGREE",
+   "6",
+   "explanation:6 (medium)"
+  ],
+  [
+   "1l6dxzpz1",
+   "AGREE",
+   "option ['D'] (value sqrt(210)/15)",
+   "D"
+  ],
+  [
+   "1l6gnhwwx",
+   "AGREE",
+   "5",
+   "explanation:5 (medium)"
+  ],
+  [
+   "1l6i21mj2",
+   "NO REFERENCE",
+   "5",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l6jk2emh",
+   "NO REFERENCE",
+   "18",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l6rhk51x",
+   "AGREE",
+   "option ['C'] (value -17 - 4*sqrt(3) + 19*sqrt(2))",
+   "C"
+  ],
+  [
+   "1ldnz6bcx",
+   "AGREE",
+   "3",
+   "explanation:3 (medium)"
+  ],
+  [
+   "ldo7la9t",
+   "AGREE",
+   "5",
+   "explanation:5 (medium)"
+  ],
+  [
+   "1ldpmwopd",
+   "NO REFERENCE",
+   "10",
+   "explanation states no clear final number"
+  ],
+  [
+   "1ldr31zsc",
+   "AGREE",
+   "3",
+   "explanation:3 (medium)"
+  ],
+  [
+   "1ldsq2v76",
+   "NO REFERENCE",
+   "40",
+   "explanation states no clear final number"
+  ],
+  [
+   "1ldtzxyz7",
+   "NO REFERENCE",
+   "5",
+   "explanation states no clear final number"
+  ],
+  [
+   "1ldws2rrh",
+   "NO REFERENCE",
+   "32",
+   "explanation states no clear final number"
+  ],
+  [
+   "lgnz71sz",
+   "AGREE",
+   "5",
+   "explanation:5 (medium)"
+  ],
+  [
+   "1lgp0utju",
+   "AGREE",
+   "15",
+   "explanation:15 (high)"
+  ],
+  [
+   "1lgq3lykk",
+   "NO REFERENCE",
+   "88/(7*pi)",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lgrjp53g",
+   "AGREE",
+   "2",
+   "explanation:2 (high)"
+  ],
+  [
+   "1lgsxfqv2",
+   "AGREE",
+   "3",
+   "explanation:3 (high)"
+  ],
+  [
+   "1lguyo8ek",
+   "NO REFERENCE",
+   "35",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lgvr89zh",
+   "AGREE",
+   "option ['C'] (value 3)",
+   "C"
+  ],
+  [
+   "1lgvs5aid",
+   "AGREE",
+   "3",
+   "explanation:3 (medium)"
+  ],
+  [
+   "1lh02pimk",
+   "AGREE",
+   "1",
+   "explanation:1 (high)"
+  ],
+  [
+   "1lh25v73h",
+   "NO REFERENCE",
+   "176",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lh31p7nb",
+   "AGREE",
+   "5",
+   "explanation:5 (medium)"
+  ],
+  [
+   "lsanle50",
+   "AGREE",
+   "4",
+   "explanation:4 (medium)"
+  ],
+  [
+   "jaoe38c1lscp2nwn",
+   "AGREE",
+   "option ['A'] (value 3)",
+   "A"
+  ],
+  [
+   "jaoe38c1lscpwe1j",
+   "AGREE",
+   "7",
+   "explanation:7 (medium)"
+  ],
+  [
+   "jaoe38c1lsd8digo",
+   "AGREE",
+   "8",
+   "explanation:8 (medium)"
+  ],
+  [
+   "jaoe38c1lsd8itby",
+   "AGREE",
+   "53",
+   "explanation:53 (medium)"
+  ],
+  [
+   "jaoe38c1lsf22kej",
+   "AGREE",
+   "10",
+   "explanation:10 (high)"
+  ],
+  [
+   "jaoe38c1lsfm7qam",
+   "NO REFERENCE",
+   "60",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lsg70wif",
+   "NO REFERENCE",
+   "24",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lsgd0f2p",
+   "AGREE",
+   "option ['D'] (value sqrt(3)/16)",
+   "D"
+  ],
+  [
+   "luxwdn7o",
+   "AGREE",
+   "3",
+   "explanation:3 (medium)"
+  ],
+  [
+   "luz2uzm2",
+   "AGREE",
+   "100",
+   "explanation:100 (medium)"
+  ],
+  [
+   "lv0vy02i",
+   "NO REFERENCE",
+   "7",
+   "explanation states no clear final number"
+  ],
+  [
+   "lv3vefxa",
+   "AGREE",
+   "option ['D'] (value 2/3)",
+   "D"
+  ],
+  [
+   "lv9s25k9",
+   "AGREE",
+   "2",
+   "explanation:2 (medium)"
+  ],
+  [
+   "lvb29eoa",
+   "NO REFERENCE",
+   "4",
+   "explanation states no clear final number"
+  ]
+ ],
+ "tally": {
+  "agree": 108,
+  "disagree": 2,
+  "unverifiable": 0,
+  "not formalized": 0,
+  "no reference value": 17
+ }
+}

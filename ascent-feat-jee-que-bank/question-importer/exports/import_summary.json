@@ -1,0 +1,49 @@
+{
+  "total_questions_discovered": 14973,
+  "total_questions_successfully_extracted": 14973,
+  "total_questions_skipped": 0,
+  "total_questions_with_missing_metadata": 0,
+  "total_questions_containing_images": 4590,
+  "questions_grouped_by_subject": {
+    "MATHEMATICS": 4788,
+    "PHYSICS": 5097,
+    "CHEMISTRY": 5088
+  },
+  "questions_grouped_by_year": {
+    "2002": 219,
+    "2003": 209,
+    "2004": 216,
+    "2005": 216,
+    "2006": 142,
+    "2007": 116,
+    "2008": 103,
+    "2009": 88,
+    "2010": 88,
+    "2011": 90,
+    "2012": 87,
+    "2013": 89,
+    "2014": 98,
+    "2015": 91,
+    "2016": 267,
+    "2017": 267,
+    "2018": 356,
+    "2019": 1424,
+    "2020": 1184,
+    "2021": 2302,
+    "2022": 2042,
+    "2023": 2112,
+    "2024": 1765,
+    "2025": 1402
+  },
+  "questions_grouped_by_question_type": {
+    "MCQ_SINGLE": 11687,
+    "NUMERICAL": 3263,
+    "MCQ_MULTIPLE": 23
+  },
+  "questions_grouped_by_difficulty": {
+    "MEDIUM": 8883,
+    "HARD": 505,
+    "EASY": 5579,
+    "UNKNOWN": 6
+  }
+}

@@ -1,0 +1,5478 @@
+[
+  {
+    "id": "m6ulvpaf",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 2, 3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "A computed (VSEPR); B-E curated; statement C text truncated in source extraction"
+  },
+  {
+    "id": "m6rlr6nx",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII Ch.10"
+  },
+  {
+    "id": "m9ghxn8x",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "free-ion high-spin unpaired electrons"
+  },
+  {
+    "id": "m6w9nzt0",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "VSEPR shapes of both members of each pair"
+  },
+  {
+    "id": "m6ulv930",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive lanthanoid chemistry"
+  },
+  {
+    "id": "m9gxges1",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvb5mn",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "explanation's list is an image; no explanation value available"
+  },
+  {
+    "id": "m6ulvpvl",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "LCAO allowed iff same symmetry about the internuclear (z) axis"
+  },
+  {
+    "id": "m6w9nzrv",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{1, 4, 5}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "n = equatorial lone pairs of ClF3 = 2"
+  },
+  {
+    "id": "m6srmyge",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9e5j4cy",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "24",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "permutations"
+  },
+  {
+    "id": "m9gxgbtk",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "fat-soluble vitamins A, D, E, K"
+  },
+  {
+    "id": "m9gxgbh6",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "sqrt(15)",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 4: MATCH",
+    "notes": [
+      "rounding: exact 3.87298 -> 4",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "enthalpies of atomisation from NCERT XII Table 8.2 (Co 425 highest); Co2+ d7 -> sqrt(15) = 3.87"
+  },
+  {
+    "id": "m6w9nzr0",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "ligand-independence computed (Oh high- vs low-spin filling); bead colours curated"
+  },
+  {
+    "id": "m9fnus9d",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "reaction identification curated; O count computed"
+  },
+  {
+    "id": "m9gxgc8q",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XII 8.3)"
+  },
+  {
+    "id": "m9ghxnoz",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{1, 4}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "MO theory; S2/Cl2 treated as O2/F2 analogues (3s/3p)"
+  },
+  {
+    "id": "m6rp62gr",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3124",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "experimental data, curated"
+  },
+  {
+    "id": "m6qp1wim",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4123",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6v42g9h",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XI 4.5)"
+  },
+  {
+    "id": "m9em61gf",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "VSEPR hybridization"
+  },
+  {
+    "id": "m9e5j4f8",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "different bond lengths <=> bonds on symmetry-inequivalent sites (axial vs equatorial)"
+  },
+  {
+    "id": "m6rlxhp4",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 3, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9e5j9ov",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "3421",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "List-II counts pi bond pairs: SO2 4:1 = 2 sigma + 2 pi (expanded-octet S=O structure, NCERT); sigma-only counting would give 2:1, which is not in List-II"
+  },
+  {
+    "id": "m9e5ja7r",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9ghxnwx",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED",
+    "derived": "33",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 33: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "sequence from the stem; G-C 3, A-T 2"
+  },
+  {
+    "id": "m9e5j9s5",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "oxide acid-base nature curated"
+  },
+  {
+    "id": "m6ulvplb",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9dunnwm",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9duiucn",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "3421",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "values computed by the rule engine"
+  },
+  {
+    "id": "m9fnus4d",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1, 2, 5}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "sqrt(24) = 4.899 -> 4.9"
+  },
+  {
+    "id": "m6w9o4nh",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m9elqyz2",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "0",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qlgmot",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "12",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 12: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Lewis structure O=N-O(-)"
+  },
+  {
+    "id": "m6ulvdu9",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 3, 4}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "STEM DEFECT: 'ribose present in DNA' - DNA contains 2-deoxyribose; truths hold for both"
+  },
+  {
+    "id": "m6qk2aop",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 3, 4}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII Table 10.2"
+  },
+  {
+    "id": "m6v42tdx",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "printed 2.84 for sqrt(8) = 2.828 (tolerance 0.02; List-II values are well separated)"
+  },
+  {
+    "id": "m6srn66j",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "4213",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Lewis-structure octet classification (NCERT XI 4.3 conventions; AlCl3 as monomer)"
+  },
+  {
+    "id": "m6t9xwyg",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvbrfa",
+    "subject": "CHEMISTRY",
+    "chapter": "Biomolecules",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6t9yfuy",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "chromate-dichromate equilibrium (NCERT XII 8.7)"
+  },
+  {
+    "id": "m6t9xwuz",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4312",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6srmtnf",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "NCERT XII table of colours of aquated 3d ions"
+  },
+  {
+    "id": "m6rp6jyr",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "11",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 11: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Nb 4d4 5s1, Ru 4d7 5s1 (tabulated exceptions)"
+  },
+  {
+    "id": "m6qvb8sd",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED",
+    "derived": "{1, 2}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "4f^n of lanthanoid ions"
+  },
+  {
+    "id": "m6qrgsyy",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "159687/1000",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 160: MATCH",
+    "notes": [
+      "rounding: exact 159.687 -> 160",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "atomic masses not given in stem: IUPAC values used"
+  },
+  {
+    "id": "m6qpcoxo",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "melting-point data curated"
+  },
+  {
+    "id": "m6rlt43b",
+    "subject": "CHEMISTRY",
+    "chapter": "D And F Block Elements",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "oxidation state computed"
+  },
+  {
+    "id": "m9dunozb",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "filter non-zero dipole, maximise central lone pairs (ClF3), hybridization"
+  },
+  {
+    "id": "m9duns8v",
+    "subject": "CHEMISTRY",
+    "chapter": "Chemical Bonding And Molecular Structure",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "identification of XeOF4 curated; shape computed"
+  },
+  {
+    "id": "m9e5j5ry",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2000/87",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 23: MATCH",
+    "notes": [
+      "rounding: exact 22.9885 -> 23",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "molar conductivity"
+  },
+  {
+    "id": "m9fnus6t",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "14532",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "data, curated"
+  },
+  {
+    "id": "m9fbg4fr",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "electrolysis rules, curated"
+  },
+  {
+    "id": "m9ghxnaj",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "NO OPTION CORRECT",
+    "derived": "2420",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "QUARANTINED_KEY_DISAGREEMENT"
+    ],
+    "numerical": "",
+    "notes": [
+      "key source is provisional: compared, but an official key is still required",
+      "options.cardinality=FAILED: single-correct item has 0 correct options []",
+      "key.matches_derivation=FAILED: declared ['D'] but derivation gives []"
+    ],
+    "file": "chem.py",
+    "note": "options encoded as 1000*x1+100*y1+10*x2+y2. Under the IUPAC convention (anode = oxidation) the answer (+2,+4,+2,0) matches NO option; key D (+2,0,+2,+4) uses discharge-mode electrode names"
+  },
+  {
+    "id": "m9dunrnc",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "21354",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "experimental pKb data, curated"
+  },
+  {
+    "id": "m9e5j4rt",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "327/10",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "0.1 mol x 327 g/mol = 32.7 g; printed option 33 (rounded)"
+  },
+  {
+    "id": "m6qkqo0m",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3142",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qlella",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 3}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qoow0u",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "each option's E - E0 written with logs expanded (Ag = [Ag+], Mg = [Mg2+])"
+  },
+  {
+    "id": "m6qp5l8v",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive (NCERT XII 2.4)"
+  },
+  {
+    "id": "m6qpiv13",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "highest E0(red) -> strongest oxidant"
+  },
+  {
+    "id": "m6qvb15l",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6qvbchf",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "324/965",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Faraday's law"
+  },
+  {
+    "id": "m6rp6jes",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6ulvjab",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6rmra42",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "193/100",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 2: MATCH",
+    "notes": [
+      "rounding: exact 1.93 -> 2",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "I = 1.93 A"
+  },
+  {
+    "id": "m6srmyb5",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "17/10",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "Latimer diagram; n checked by oxidation states"
+  },
+  {
+    "id": "m6t9yeyy",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "cells as written: left = anode, right = cathode"
+  },
+  {
+    "id": "m6rm3m6z",
+    "subject": "CHEMISTRY",
+    "chapter": "Compounds Containing Nitrogen",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "descriptive"
+  },
+  {
+    "id": "m6ulv91f",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "dG additivity: E(Fe3+/Fe2+) = 3z - 2y"
+  },
+  {
+    "id": "m6v42ikg",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "lowest E0(red) -> its reduced form is the strongest reductant"
+  },
+  {
+    "id": "m9dunp3y",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "E0(quinhydrone) = 0.70 V assumed (image)"
+  },
+  {
+    "id": "m9dv7asx",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4167/413",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 10: MATCH",
+    "notes": [
+      "rounding: exact 10.0896 -> 10",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "pH = 10.08"
+  },
+  {
+    "id": "m9e5jawj",
+    "subject": "CHEMISTRY",
+    "chapter": "Electrochemistry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "400",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 400: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "chem.py",
+    "note": "inert-electrode assumption"
+  },
+  {
+    "id": "m6v42lew",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "360",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "f'(3)=0 is the necessary condition for 3 to end the increasing interval inside the domain; the stem fact (increasing set exactly (2,3)) is then verified"
+  },
+  {
+    "id": "m6rp62j4",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "23",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "pair 'p and q' (maxima, minima) encoded as 10*p+q"
+  },
+  {
+    "id": "m9gxgbr9",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1024/3",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "region given directly as inequalities"
+  },
+  {
+    "id": "m6ulviwm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "567/121",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "modelling: an axis-parallel rectangle [x1,x2]x[y1,y2] fits in R iff y1>=x2 and y2<=9-11x2^2/3 (both bounds monotone in x on x>=0); optimum takes x1=0, so area g(x2)=x2(9-11x2^2/3-x2) for x2 in [0, X1] where X1 is where the line meets the parabola"
+  },
+  {
+    "id": "m9gxgbv7",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "-1 + 2*sqrt(2)",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "circle centre (0,-6), r=1; parabola point (x^2/8, x) parametrised by its ordinate; distance curve-to-circle = min distance to centre - r when that minimum exceeds r"
+  },
+  {
+    "id": "m9fnur2t",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "12",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 12: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "curve y=max{...} is >= 0 on [-2,4]; region between it and the x-axis"
+  },
+  {
+    "id": "m6w9o8s1",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "157/72",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "sum of local minimum VALUES; stem restored after importer LaTeX fix"
+  },
+  {
+    "id": "m9dmr7qo",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "36",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xsvp",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "256*pi",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "V(h) = ice-cream volume, r = chocolate radius; dV/dt = V'(h) dh/dt with dh/dt=-1/(4pi), dV/dt=-81 at h=1"
+  },
+  {
+    "id": "m9e5j2cm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "3",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 3: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "modelling: D = A + (1-x)(B-A) + x(C-A) on BC; AFDE parallelogram with F on AB, E on AC forces AF=(1-x)AB, AE=x AC, area = x(1-x)|AB x AC|"
+  },
+  {
+    "id": "m6rp6a4c",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "8/3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "enclosed region = above the parabola y=(x-2)^2 and inside y^2=16-8x"
+  },
+  {
+    "id": "m9dqv4qg",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "50",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j6z6",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "250",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "bounded region between the downward parabola and the line"
+  },
+  {
+    "id": "m9doiwrb",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "10",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xsmf",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "5",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "solve area(a) = given for a > 0; uniqueness backed by a residual scan on (0,20)"
+  },
+  {
+    "id": "m9ghxloj",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1/2",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "f from the Volterra integral equation (Laplace solve + exact back-substitution); region bounded by y=f(x) and the coordinate axes (first quadrant, f defined on x>=0)"
+  },
+  {
+    "id": "m6srmtsp",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "77",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 77: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "disk cut by y=|x-1| into two pieces; larger piece; A=(b*pi+c)/4 matched exactly"
+  },
+  {
+    "id": "m9ghxm4n",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "368",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 368: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgb7g",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6qhukji",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "33",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "enclosed between the curves = inside the circle, outside |y| = 1-x^2"
+  },
+  {
+    "id": "m6qvbck4",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "-16 + 6*pi",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunrsb",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "22",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 22: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9dmvgsu",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "15",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 15: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "the set has an unbounded component (above y=3sqrt(x)); stem asks for the bounded one"
+  },
+  {
+    "id": "m9fnusfr",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "18",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6srmtjm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "30",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 30: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "set of a with three distinct real roots must be (alpha, beta)"
+  },
+  {
+    "id": "m9duno8j",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "37",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6rhys7x",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "-1/3 + pi/2",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "bounded region between x(1+y^2)=1 and y^2=2x"
+  },
+  {
+    "id": "m6qhunl7",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "14",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j745",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "211/10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "stem instructs log_e 2 = 0.7"
+  },
+  {
+    "id": "m6v42lc7",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1 - log(2)",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "the strip between the curves for x>0 is unbounded; the region closed by the y-axis is the part with x<=0"
+  },
+  {
+    "id": "m6ulvj5e",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "20/3",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6w9o8uw",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "64/3",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6srn27t",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-1080",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "'sum of the next four terms' = a_5 + a_6 + a_7 + a_8"
+  },
+  {
+    "id": "m6qhsfy4",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "100",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvaza3",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "784",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "increasing positive GP encoded as A > 0, ratio > 1"
+  },
+  {
+    "id": "m6v42x9m",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "515",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6srn6ee",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "44",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6ulvixl",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "25",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (writes p = 3 then uses 5); key D believed correct"
+  },
+  {
+    "id": "m6qi9jv4",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11132",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 11132: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dowfw9",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "64",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusib",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "421",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunoqg",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xt0i",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8788",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 8788: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6w9o103",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "126",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgcpa",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "16",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgedv",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2*E",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuqlo",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "7240",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (its formula sign); key A believed correct"
+  },
+  {
+    "id": "m9fnusx5",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "540",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxld2",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3761",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxljj",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "41880",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dqr6zu",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "757",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9d9bl5d",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "15",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j78z",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "216",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6v437u1",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xszy",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "474",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 474: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j28m",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "441",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 441: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j1on",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (writes a+(2n+1)d for the last term); key B believed correct"
+  },
+  {
+    "id": "m6w9o8zv",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1546132562196033862541371565789235463945892412275/1267650600228229401496703205376",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "options are symbolic in a_100 / a_99; encoded as exact numbers with a_100, a_99 obtained by exact Fraction iteration of the recurrence (independent of the engine's rsolve closed form)"
+  },
+  {
+    "id": "m6rp5uwi",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6qgq07h",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "90",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6rirljj",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "675",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j642",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "449",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j0pj",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "103",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6ulvphu",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "7",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusdf",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6rj2ysd",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "20",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 20: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuqki",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "129",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgc3j",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3*pi/4",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "beta in {pi/4, pi/2} (beta = pi/2 <-> alpha = pi, the line along -x); sum 3pi/4"
+  },
+  {
+    "id": "m9gxgbou",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "14",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxlv3",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "47",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusmt",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "54",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusxt",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2/3",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuquv",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "25",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxlbb",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "46",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j71s",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-3",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j6wn",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "'which point lies on L' encoded as the 1-based index of the option point (A=1 .. D=4); the candidate list in the formal is the option list of the stem, the engine requires exactly one"
+  },
+  {
+    "id": "m9e5j19c",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "46/3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9dqnut8",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "14",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9dr3ju6",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "147",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "stem L1 direction (1,1,1) (explanation writes (1,1,2) but lands on 147 anyway)"
+  },
+  {
+    "id": "m9e5j1ma",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "23*sqrt(38)/38",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6w9o8q5",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "statement code = 2*[S1 true] + [S2 true]: both false 0, only S2 1, only S1 2, both 3"
+  },
+  {
+    "id": "m6w9o4r0",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "9",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuqsf",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "suspect explanation lists a spurious 2nd solution; engine enumerates all transversals"
+  },
+  {
+    "id": "m6v42lao",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "957",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 957: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9d92b3i",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5*sqrt(2)/3",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xskm",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "9",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6qhxjg2",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "27",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvb1f1",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "216",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 216: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xsph",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(14)",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6srn3sh",
+    "subject": "MATHEMATICS",
+    "chapter": "Properties Of Triangle",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6rp5uy9",
+    "subject": "MATHEMATICS",
+    "chapter": "Properties Of Triangle",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "145",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 145: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvb8x5",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": "'which point lies on the line of shortest distance' encoded as the option index (A=1 .. D=4)"
+  },
+  {
+    "id": "m6rp6jq4",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "136",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6rp5wn1",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3*sqrt(5)",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6qgodpk",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "25",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusev",
+    "subject": "MATHEMATICS",
+    "chapter": "Hyperbola",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "185",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgbcx",
+    "subject": "MATHEMATICS",
+    "chapter": "Hyperbola",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "141",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 141: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6qh7ip4",
+    "subject": "MATHEMATICS",
+    "chapter": "3d Geometry",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9dqjioi",
+    "subject": "MATHEMATICS",
+    "chapter": "Hyperbola",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3/5",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunpl9",
+    "subject": "MATHEMATICS",
+    "chapter": "Hyperbola",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "16",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_geometry.py",
+    "note": ""
+  },
+  {
+    "id": "m6srn52d",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)/2",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "v^2 = (10/7) g L sin(theta); ratio sin30/sin45 = 1/sqrt2."
+  },
+  {
+    "id": "m6w9nzw8",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 4: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "R1^2 = 5 R2^2 -> n = 4."
+  },
+  {
+    "id": "m9ghxmzt",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "UNVERIFIABLE / AMBIGUOUS ROUNDING (3.5)",
+    "derived": "7/2",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "QUARANTINED_UNVERIFIABLE"
+    ],
+    "numerical": "explanation 4: AMBIGUOUS ROUNDING (3.5)",
+    "notes": [
+      "rounding: exact value 3.5 is within 0.05 of a .5 boundary: rounding is ambiguous",
+      "numerical.rounding=FAILED: exact value 3.5 is within 0.05 of a .5 boundary: rounding is ambiguous"
+    ],
+    "file": "physics.py",
+    "note": "exact x = 7/2 = 3.5; no rounding instruction in the stem -> nearest-integer rounding is ambiguous."
+  },
+  {
+    "id": "m6rkxfo3",
+    "subject": "PHYSICS",
+    "chapter": "Electromagnetic Induction",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 1: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "figure only fixes the angle c, which cancels; straight rails assumed from 'vertex' (teacher confirm)."
+  },
+  {
+    "id": "m9ghxmfx",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2, 3, 4, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "B, C, D, E correct."
+  },
+  {
+    "id": "m9e5j2f6",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3/8",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with I = k M r^2."
+  },
+  {
+    "id": "m9e5j3wx",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 1: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "all data are in the text; the figure only shows the string."
+  },
+  {
+    "id": "m9dnmwcl",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1/(8*pi**2)",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with I = k lambda L^3."
+  },
+  {
+    "id": "m6v426tx",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5/2",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j8ub",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-1 + sqrt(3)",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6rjhb8t",
+    "subject": "PHYSICS",
+    "chapter": "Electromagnetic Induction",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "157/625",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxmo3",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{4}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "the stem alone is underdetermined; each option is checked for equilibrium (residual == 0)."
+  },
+  {
+    "id": "m9ejm6t2",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvblt7",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "90",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 90: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "n = 1/3, p = -1/4, L = (1, 8, -5)."
+  },
+  {
+    "id": "m6qn64qy",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 2: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6rju9w4",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)/2 + 3/2",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "options x = M a/(al a + be g): A (2/3,1/3), B (3/2,1/2), C (2/3,-1/3), D (3/2,-1/2)."
+  },
+  {
+    "id": "m9dunp8m",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1/4",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with I = k alpha."
+  },
+  {
+    "id": "m6w9ob6b",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "16",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 16: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "equal thickness assumed (implied by 'negligible thickness', same iron)."
+  },
+  {
+    "id": "m6srn3xq",
+    "subject": "PHYSICS",
+    "chapter": "Electromagnetic Induction",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1, 3, 4, 5}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "A, C, D, E."
+  },
+  {
+    "id": "m6v42h24",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "option claims on q = t1/t2 = sqrt(21)/5: A t1<t2, B t1=2t2, C t1>t2, D t1=t2."
+  },
+  {
+    "id": "m9gxgdp9",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused from verify_ascent300_calcs."
+  },
+  {
+    "id": "m6rja0g8",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "190",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m9do8yt4",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "40",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 40: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xvoz",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "60",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with P = k M R^2 (SI)."
+  },
+  {
+    "id": "m6qkgtpo",
+    "subject": "PHYSICS",
+    "chapter": "Electromagnetic Induction",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "option A's second 'phi' read as emf (typo)."
+  },
+  {
+    "id": "m6ulvpn1",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)/3",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6rp5u2s",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1 - sqrt(3)",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "tau = (1, 0, -1)."
+  },
+  {
+    "id": "m9ghxmvv",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3}",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "L x P = (-Lz Py, Lz Px, 0) is parallel to F; only 'opposite to r' holds."
+  },
+  {
+    "id": "m6qkyxgd",
+    "subject": "PHYSICS",
+    "chapter": "Electromagnetic Induction",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-31",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "symbolic options compared at a generic sample point (wrong options are disproved; the match is an instance, the identity follows from phi1 = L1 I1 + M12 I2)."
+  },
+  {
+    "id": "m9fnutuj",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "32",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 32: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "physically debatable conservation assumption flagged in model."
+  },
+  {
+    "id": "m9fnuree",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "7/2",
+    "key": "B",
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m9do23fv",
+    "subject": "PHYSICS",
+    "chapter": "Laws Of Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3 + 4*sqrt(2) + 5*sqrt(3)",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunojt",
+    "subject": "PHYSICS",
+    "chapter": "Rotational Motion",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "20",
+    "key": "A",
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "all data in the text."
+  },
+  {
+    "id": "m6w9oa23",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvb92i",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "20/9",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9dnisox",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "option claims via phasor residual."
+  },
+  {
+    "id": "m9gxgby4",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "200",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9dnod3o",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6ulvj8c",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{3, 5}",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "factors 30, 0.1, 10, 1/30, 10 -> C and E."
+  },
+  {
+    "id": "m9e5j7xb",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2*pi/3",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "exact 2.094 s; options_rounded 5% (stem says nearest integer)."
+  },
+  {
+    "id": "m9gxgcl8",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "NO OPTION CORRECT",
+    "derived": "0",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "QUARANTINED_KEY_DISAGREEMENT"
+    ],
+    "numerical": "",
+    "notes": [
+      "key source is provisional: compared, but an official key is still required",
+      "options.cardinality=FAILED: single-correct item has 0 correct options []",
+      "key.matches_derivation=FAILED: declared ['C'] but derivation gives []"
+    ],
+    "file": "physics.py",
+    "note": "literal reading: O2- radius is HALF -> LARGER curvature, so A is false; equal |q| and p -> equal radii, so R is false. Code 0 (both false) is not among the options -> expected disagreement."
+  },
+  {
+    "id": "m9fnutvk",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "100*sqrt(354)/(177*sqrt(pi))",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "rounding: exact 5.99727 -> 6",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m9ej6s0x",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 5: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnurpn",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "48",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 48: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j2hj",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused; x = S_V1/S_V2."
+  },
+  {
+    "id": "m6t9xt1i",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-30",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunofb",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "64/125",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j2rw",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "A, B, C computed on k; D curated false (dimensionally inconsistent)."
+  },
+  {
+    "id": "m6v42le1",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "250",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 250: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m6w9o7vn",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{2}",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "expert check outstanding: statement.truth",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "B proved generally (ln(a/x) = 4 pi m v0/(q mu0 I)); A, D refuted at a sample; C curated."
+  },
+  {
+    "id": "m9dnfepu",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)/(3*pi)",
+    "key": "B",
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with B = k mu0 I/a; entry/exit at A, C inferred from the stem's ABC / ADC parts."
+  },
+  {
+    "id": "m6rp6kg1",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": null,
+    "statuses": [
+      "NEEDS_VISUAL_REVIEW",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 1: MATCH",
+    "notes": [
+      "unresolved fragments: ['1 image(s) in the question']",
+      "diagram present: expert must confirm the formal state encodes it",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused from verify_ascent300_calcs (figure placement of P)."
+  },
+  {
+    "id": "m6ulvdwc",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 8: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6qkgtjp",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1/2 + 2*sqrt(2)",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6rp62so",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1/pi",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "target k with r^2 = k h/(eB); option C's printed 'e eB' read as eB (typo)."
+  },
+  {
+    "id": "m6rp6a8d",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 2: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxmmj",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "25",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgc4u",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "360",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnut39",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "explanation arithmetic says 2 m (wrong); exact 3 m = key C."
+  },
+  {
+    "id": "m6qjznxx",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 8: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j2pk",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "{1}",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "exact k = 0.8378/cm (printed 0.83 is truncated), w = 3.351/s."
+  },
+  {
+    "id": "m9e8b438",
+    "subject": "PHYSICS",
+    "chapter": "Waves",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6v42mhq",
+    "subject": "PHYSICS",
+    "chapter": "Magnetics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "expert check outstanding: statement.truth",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6rko5o0",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1770",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "exact 1770 J/m^3; printed 1.8e3 (1.7%)."
+  },
+  {
+    "id": "m6qvbt5l",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "16000000",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m6qvbk94",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(2)/5 + 4",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "4 mC and 0.2 J."
+  },
+  {
+    "id": "m6qjznvt",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1320",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 1320: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "reused."
+  },
+  {
+    "id": "m6rp5unr",
+    "subject": "PHYSICS",
+    "chapter": "Capacitor",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-2*sqrt(3) - sqrt(2) + 2 + 2*sqrt(5)",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "[C^2 M^-1 L^-2 T^2]."
+  },
+  {
+    "id": "m9fnutwn",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "15",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 15: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "'20 maxima contained' read as width = 20 fringe widths."
+  },
+  {
+    "id": "m9ghxmak",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "50",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnutoo",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "pi/4",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "stationarity written by hand."
+  },
+  {
+    "id": "m9gxgde2",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunnrf",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "157*sqrt(6*sqrt(3) + 13)/125",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 6: MATCH",
+    "notes": [
+      "rounding: exact 6.07472 -> 6",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "small-angle gives 5.997 um; both round to 6."
+  },
+  {
+    "id": "m9e5j875",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "sqrt(3)",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "exact sqrt3 = 1.732."
+  },
+  {
+    "id": "m9dunr0t",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "acos(sqrt(3)/3)",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnurol",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "24",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 24: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgcbi",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "(1 + sqrt(2))**2/(1 - sqrt(2))**2",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": ""
+  },
+  {
+    "id": "m6v42s3f",
+    "subject": "PHYSICS",
+    "chapter": "Wave Optics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "23/100",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "physics.py",
+    "note": "exact 0.23 mm."
+  }
+]

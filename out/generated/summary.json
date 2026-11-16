@@ -1,0 +1,332 @@
+{
+ "pnc": {
+  "questions": 109,
+  "families": {
+   "pnc.vowels_block": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.7,
+    "reject_reasons": []
+   },
+   "pnc.dictionary_rank": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   },
+   "pnc.digit_numbers": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "pnc.committee_atleast": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   },
+   "pnc.circular_seating": {
+    "generated": 9,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 9
+    },
+    "seconds": 0.3,
+    "reject_reasons": []
+   },
+   "pnc.identical_into_boxes": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.2,
+    "reject_reasons": []
+   },
+   "pnc.derangement": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "pnc.gap_method": {
+    "generated": 10,
+    "rejected": 1,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 1.1,
+    "reject_reasons": [
+     "{'word': 'ASSESSOR', 'group': 'S'}: only 2 distinct verified mistake values"
+    ]
+   },
+   "pnc.divisors": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "pnc.points_triangles": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "pnc.letter_selection": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   }
+  }
+ },
+ "rot": {
+  "questions": 120,
+  "families": {
+   "rot.axis_theorems": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 1.5,
+    "reject_reasons": []
+   },
+   "rot.removed_disc": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 1.4,
+    "reject_reasons": []
+   },
+   "rot.composite_rod_body": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.0,
+    "reject_reasons": []
+   },
+   "rot.gyration_particles": {
+    "generated": 10,
+    "rejected": 4,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.7,
+    "reject_reasons": [
+     "{'axis': 'sq_perpO', 'mass': 'graded'}: only 2 distinct verified mistake values",
+     "{'axis': 'tr_perpG', 'mass': 'graded'}: only 2 distinct verified mistake values",
+     "{'axis': 'sq_perpO', 'mass': 'equal'}: only 2 distinct verified mistake values",
+     "{'axis': 'tr_perpG', 'mass': 'equal'}: only 2 distinct verified mistake values"
+    ]
+   },
+   "rot.rolling_speed": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.4,
+    "reject_reasons": []
+   },
+   "rot.rolling_friction": {
+    "generated": 10,
+    "rejected": 2,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 4.6,
+    "reject_reasons": [
+     "{'shape': 'hollow_cylinder', 'th': 45}: only 2 distinct verified mistake values",
+     "{'shape': 'ring', 'th': 45}: only 2 distinct verified mistake values"
+    ]
+   },
+   "rot.ke_split": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.4,
+    "reject_reasons": []
+   },
+   "rot.pulley_hanging_mass": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.0,
+    "reject_reasons": []
+   },
+   "rot.turntable_person": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.4,
+    "reject_reasons": []
+   },
+   "rot.coupled_discs_ke_loss": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.6,
+    "reject_reasons": []
+   },
+   "rot.rod_release": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 2.2,
+    "reject_reasons": []
+   },
+   "rot.torque_work_power": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED_TEACHER_SIGNOFF": 10
+    },
+    "seconds": 0.5,
+    "reject_reasons": []
+   }
+  }
+ },
+ "redox": {
+  "questions": 99,
+  "families": {
+   "redox.on_common": {
+    "generated": 10,
+    "rejected": 1,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": [
+     "{'species': 'H3PO2', 'element': 'P'}: only 2 distinct verified mistake values"
+    ]
+   },
+   "redox.on_tricky": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "redox.on_sum": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.0,
+    "reject_reasons": []
+   },
+   "redox.balance_coeff": {
+    "generated": 10,
+    "rejected": 6,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.4,
+    "reject_reasons": [
+     "{'i': 7, 'species': 'H^+'}: only 2 distinct verified mistake values",
+     "{'i': 14, 'species': 'H2O'}: only 2 distinct verified mistake values",
+     "{'i': 14, 'species': 'H^+'}: only 1 distinct verified mistake values",
+     "{'i': 1, 'species': 'H2O'}: only 1 distinct verified mistake values",
+     "{'i': 1, 'species': 'H^+'}: only 1 distinct verified mistake values"
+    ]
+   },
+   "redox.electrons": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.2,
+    "reject_reasons": []
+   },
+   "redox.eq_weight": {
+    "generated": 9,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 9
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   },
+   "redox.titration_volume": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   },
+   "redox.titration_mass": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.2,
+    "reject_reasons": []
+   },
+   "redox.reaction_type": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   },
+   "redox.capability": {
+    "generated": 10,
+    "rejected": 0,
+    "status": {
+     "VERIFIED": 10
+    },
+    "seconds": 0.1,
+    "reject_reasons": []
+   }
+  }
+ }
+}

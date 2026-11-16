@@ -1,0 +1,20 @@
+# Labelled HISTORICAL BASELINE: the 2026 brochure is NOT the 2027 rule.
+profile_id: MHT_CET-2026-v1
+exam: MHT_CET
+year: 2026
+version: 1
+status: HISTORICAL_BASELINE
+source_url: "https://cetcell.mahacet.org/wp-content/uploads/2023/12/MHT-CET-2026-Information-Brochure-Updated-on-11.04.2026.pdf"
+last_verified: "2026-11-14"
+verified_by: "blueprint research check"
+time_limit_minutes: 180
+subjects:
+  PHYSICS:
+    sections:
+      PC: {format: single_correct_mcq, questions: 50, options: 4, marks_correct: 1, marks_incorrect: 0, unanswered: 0}
+  CHEMISTRY:
+    sections:
+      PC: {format: single_correct_mcq, questions: 50, options: 4, marks_correct: 1, marks_incorrect: 0, unanswered: 0}
+  MATHEMATICS:
+    sections:
+      M: {format: single_correct_mcq, questions: 50, options: 4, marks_correct: 2, marks_incorrect: 0, unanswered: 0}

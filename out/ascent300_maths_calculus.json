@@ -1,0 +1,628 @@
+[
+  {
+    "id": "m6v42lew",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "360",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "f'(3)=0 is the necessary condition for 3 to end the increasing interval inside the domain; the stem fact (increasing set exactly (2,3)) is then verified"
+  },
+  {
+    "id": "m6rp62j4",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "23",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "pair 'p and q' (maxima, minima) encoded as 10*p+q"
+  },
+  {
+    "id": "m9gxgbr9",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1024/3",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "region given directly as inequalities"
+  },
+  {
+    "id": "m6ulviwm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "567/121",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "modelling: an axis-parallel rectangle [x1,x2]x[y1,y2] fits in R iff y1>=x2 and y2<=9-11x2^2/3 (both bounds monotone in x on x>=0); optimum takes x1=0, so area g(x2)=x2(9-11x2^2/3-x2) for x2 in [0, X1] where X1 is where the line meets the parabola"
+  },
+  {
+    "id": "m9gxgbv7",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "-1 + 2*sqrt(2)",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "circle centre (0,-6), r=1; parabola point (x^2/8, x) parametrised by its ordinate; distance curve-to-circle = min distance to centre - r when that minimum exceeds r"
+  },
+  {
+    "id": "m9fnur2t",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "12",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 12: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "curve y=max{...} is >= 0 on [-2,4]; region between it and the x-axis"
+  },
+  {
+    "id": "m6w9o8s1",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "157/72",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "sum of local minimum VALUES; stem restored after importer LaTeX fix"
+  },
+  {
+    "id": "m9dmr7qo",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "36",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xsvp",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "256*pi",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "V(h) = ice-cream volume, r = chocolate radius; dV/dt = V'(h) dh/dt with dh/dt=-1/(4pi), dV/dt=-81 at h=1"
+  },
+  {
+    "id": "m9e5j2cm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "3",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 3: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "modelling: D = A + (1-x)(B-A) + x(C-A) on BC; AFDE parallelogram with F on AB, E on AC forces AF=(1-x)AB, AE=x AC, area = x(1-x)|AB x AC|"
+  },
+  {
+    "id": "m6rp6a4c",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "8/3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "enclosed region = above the parabola y=(x-2)^2 and inside y^2=16-8x"
+  },
+  {
+    "id": "m9dqv4qg",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "50",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j6z6",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "250",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "bounded region between the downward parabola and the line"
+  },
+  {
+    "id": "m9doiwrb",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "10",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xsmf",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "5",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "solve area(a) = given for a > 0; uniqueness backed by a residual scan on (0,20)"
+  },
+  {
+    "id": "m9ghxloj",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1/2",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "f from the Volterra integral equation (Laplace solve + exact back-substitution); region bounded by y=f(x) and the coordinate axes (first quadrant, f defined on x>=0)"
+  },
+  {
+    "id": "m6srmtsp",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "77",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 77: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "disk cut by y=|x-1| into two pieces; larger piece; A=(b*pi+c)/4 matched exactly"
+  },
+  {
+    "id": "m9ghxm4n",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "368",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 368: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgb7g",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "3",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6qhukji",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "33",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "enclosed between the curves = inside the circle, outside |y| = 1-x^2"
+  },
+  {
+    "id": "m6qvbck4",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "-16 + 6*pi",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunrsb",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "22",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 22: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9dmvgsu",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "15",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 15: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "the set has an unbounded component (above y=3sqrt(x)); stem asks for the bounded one"
+  },
+  {
+    "id": "m9fnusfr",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "18",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6srmtjm",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "30",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 30: MATCH",
+    "notes": [
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "set of a with three distinct real roots must be (alpha, beta)"
+  },
+  {
+    "id": "m9duno8j",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "37",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6rhys7x",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "-1/3 + pi/2",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "bounded region between x(1+y^2)=1 and y^2=2x"
+  },
+  {
+    "id": "m6qhunl7",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "14",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j745",
+    "subject": "MATHEMATICS",
+    "chapter": "Application Of Derivatives",
+    "verdict": "VERIFIED",
+    "derived": "211/10",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "stem instructs log_e 2 = 0.7"
+  },
+  {
+    "id": "m6v42lc7",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "1 - log(2)",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": "the strip between the curves for x>0 is unbounded; the region closed by the y-axis is the part with x<=0"
+  },
+  {
+    "id": "m6ulvj5e",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "20/3",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  },
+  {
+    "id": "m6w9o8uw",
+    "subject": "MATHEMATICS",
+    "chapter": "Area Under The Curves",
+    "verdict": "VERIFIED",
+    "derived": "64/3",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_calculus.py",
+    "note": ""
+  }
+]

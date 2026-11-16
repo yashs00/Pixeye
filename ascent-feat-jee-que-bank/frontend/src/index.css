@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* KaTeX custom responsive math container */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.5rem 0;
+  margin: 0.5rem 0 !important;
+}
+
+.katex {
+  font-size: 1.05em;
+  line-height: 1.2;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+
+/* ---------------------------------------------------------------- Variant Studio motion */
+@keyframes vs-rise { from { opacity: 0; transform: translateY(10px) scale(0.99); } to { opacity: 1; transform: none; } }
+@keyframes vs-pop { 0% { transform: scale(0.6); opacity: 0; } 60% { transform: scale(1.12); opacity: 1; } 100% { transform: scale(1); } }
+@keyframes vs-shimmer { from { background-position: -400px 0; } to { background-position: 400px 0; } }
+@keyframes vs-out { to { opacity: 0; transform: translateX(24px) scale(0.98); } }
+@keyframes vs-tray { from { transform: translate(-50%, 120%); } to { transform: translate(-50%, 0); } }
+@keyframes vs-bump { 0%, 100% { transform: scale(1); } 40% { transform: scale(1.25); } }
+
+.vs-rise { animation: vs-rise 260ms cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+.vs-pop { animation: vs-pop 320ms cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+.vs-out { animation: vs-out 200ms ease-in forwards; }
+.vs-tray { animation: vs-tray 320ms cubic-bezier(0.2, 0.9, 0.25, 1.05) both; }
+.vs-bump { animation: vs-bump 280ms ease-out; }
+.vs-skel {
+  background: linear-gradient(90deg, #f1f5f9 0%, #e2e8f0 40%, #f1f5f9 80%);
+  background-size: 800px 100%;
+  animation: vs-shimmer 1.3s linear infinite;
+}
+.vs-collapse { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 220ms ease-out; }
+.vs-collapse[data-open="true"] { grid-template-rows: 1fr; }
+.vs-collapse > div { overflow: hidden; }
+
+@media (prefers-reduced-motion: reduce) {
+  .vs-rise, .vs-pop, .vs-out, .vs-tray, .vs-bump { animation-duration: 1ms !important; }
+  .vs-skel { animation: none; }
+  .vs-collapse { transition: none; }
+}
+
+.vs-orig img { max-height: 160px; width: auto; margin: 0 auto; }
+
+/* ---------------------------------------------------------------- Variant Studio (dark) */
+.vs-dark { font-family: 'Inter', 'Plus Jakarta Sans', system-ui, sans-serif; font-feature-settings: 'cv11', 'ss01'; }
+.vs-dark .prose { color: inherit; }
+.vs-dark .prose b, .vs-dark .prose strong { color: #fff; font-weight: 600; }
+.vs-dark .prose img { background: #fff; border-radius: 8px; padding: 6px; }
+.vs-dark .vs-skel { background: linear-gradient(90deg, #1b1d23 0%, #262931 40%, #1b1d23 80%); background-size: 800px 100%; }
+.vs-dark ::selection { background: rgba(130, 87, 255, 0.45); }
+.vs-dark ::-webkit-scrollbar-track { background: transparent; }
+.vs-dark ::-webkit-scrollbar-thumb { background: #2a2d35; }
+.vs-glow { box-shadow: 0 0 0 1px rgba(168,139,255,0.35), 0 10px 32px -8px rgba(130,87,255,0.65); }
+
+/* ---------------------------------------------------------------- PIXEYE neon */
+.neon-text {
+  background: linear-gradient(92deg, #22e4ff 0%, #8257ff 48%, #ff3ec9 100%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.neon-btn {
+  background: linear-gradient(100deg, #4d7cff 0%, #8257ff 50%, #c13cff 100%);
+  background-size: 160% 100%; background-position: 0% 50%;
+  box-shadow: 0 0 0 1px rgba(168,139,255,0.45), 0 10px 34px -10px rgba(130,87,255,0.85), inset 0 1px 0 rgba(255,255,255,0.18);
+  transition: background-position 400ms ease, box-shadow 200ms ease, transform 120ms ease, filter 200ms ease;
+}
+.neon-btn:hover { background-position: 100% 50%; box-shadow: 0 0 0 1px rgba(201,184,255,0.6), 0 12px 40px -8px rgba(193,60,255,0.8), inset 0 1px 0 rgba(255,255,255,0.22); }
+.neon-btn:active { transform: scale(0.98); }
+.neon-tile { background: linear-gradient(135deg, #22e4ff 0%, #8257ff 55%, #ff3ec9 100%); box-shadow: 0 6px 20px -6px rgba(130,87,255,0.7); }
+.neon-ring { box-shadow: 0 0 0 1px rgba(34,228,255,0.35), 0 0 32px -6px rgba(130,87,255,0.45); }
+.neon-correct { box-shadow: 0 0 22px -8px rgba(125,255,178,0.55); }
+.neon-border { position: relative; }
+.neon-border::before {
+  content: ''; position: absolute; inset: 0; border-radius: inherit; padding: 1px; pointer-events: none;
+  background: linear-gradient(100deg, rgba(34,228,255,0.7), rgba(130,87,255,0.7), rgba(255,62,201,0.7));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude;
+}
+.vs-bloom { position: fixed; border-radius: 9999px; filter: blur(110px); pointer-events: none; opacity: 0.5; z-index: 0; }
+
+/* ---------------------------------------------------------------- PIXEYE dark atmosphere */
+html { background: #0b0d14; color-scheme: dark; }
+body {
+  background:
+    radial-gradient(900px 500px at 8% -10%, rgba(34, 228, 255, 0.10), transparent 60%),
+    radial-gradient(900px 600px at 95% 0%, rgba(130, 87, 255, 0.16), transparent 60%),
+    radial-gradient(700px 500px at 60% 110%, rgba(255, 62, 201, 0.08), transparent 60%),
+    #0b0d14;
+  background-attachment: fixed;
+}
+::-webkit-scrollbar-track { background: #0b0d14; }
+::-webkit-scrollbar-thumb { background: #2b3144; }
+::-webkit-scrollbar-thumb:hover { background: #3a4158; }
+select, input { color-scheme: dark; }
+.katex { color: inherit; }
+
+/* logo: blink every ~6 s, and a slow breathing glow */
+@keyframes pixeye-blink { 0%, 92%, 100% { transform: scaleY(1); } 95%, 97% { transform: scaleY(0.08); } }
+@keyframes pixeye-breathe { 0%, 100% { filter: drop-shadow(0 0 6px rgba(130,87,255,0.35)); } 50% { filter: drop-shadow(0 0 14px rgba(34,228,255,0.55)); } }
+.pixeye-logo { overflow: visible; animation: pixeye-breathe 4s ease-in-out infinite; }
+.pixeye-lid { transform-origin: center; transform-box: fill-box; animation: pixeye-blink 6.5s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) { .pixeye-logo, .pixeye-lid { animation: none; } }
+
+/* question diagrams come from a light-background source: keep them readable on dark */
+.prose img { background: #fff; padding: 4px; border-radius: 6px; }

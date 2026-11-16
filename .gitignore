@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.cqse_cache/
+llm_usage.jsonl
+formalized.jsonl
+ingest_report.json
+ascent-feat-jee-que-bank/backend/.env

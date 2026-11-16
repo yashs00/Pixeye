@@ -1,0 +1,762 @@
+[
+  {
+    "id": "m6srn27t",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "-1080",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "'sum of the next four terms' = a_5 + a_6 + a_7 + a_8"
+  },
+  {
+    "id": "m6qhsfy4",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "100",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6qvaza3",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "784",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "increasing positive GP encoded as A > 0, ratio > 1"
+  },
+  {
+    "id": "m6v42x9m",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "515",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6srn6ee",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "44",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6ulvixl",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "25",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (writes p = 3 then uses 5); key D believed correct"
+  },
+  {
+    "id": "m6qi9jv4",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11132",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 11132: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dowfw9",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "64",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusib",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "421",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dunoqg",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "11",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xt0i",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "8788",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 8788: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6w9o103",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "126",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgcpa",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "16",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9gxgedv",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "2*E",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuqlo",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "7240",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (its formula sign); key A believed correct"
+  },
+  {
+    "id": "m9fnusx5",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "540",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxld2",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "3761",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9ghxljj",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "41880",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9dqr6zu",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "757",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9d9bl5d",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "15",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j78z",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "216",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6v437u1",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "6",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6t9xszy",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "474",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 474: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j28m",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "441",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 441: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j1on",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "4",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "explanation suspect (writes a+(2n+1)d for the last term); key B believed correct"
+  },
+  {
+    "id": "m6w9o8zv",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1546132562196033862541371565789235463945892412275/1267650600228229401496703205376",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": "options are symbolic in a_100 / a_99; encoded as exact numbers with a_100, a_99 obtained by exact Fraction iteration of the recurrence (independent of the engine's rsolve closed form)"
+  },
+  {
+    "id": "m6rp5uwi",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "5",
+    "key": "D",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['D']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6qgq07h",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "90",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6rirljj",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "675",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j642",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "449",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9e5j0pj",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "103",
+    "key": "A",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['A']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6ulvphu",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "7",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnusdf",
+    "subject": "MATHEMATICS",
+    "chapter": "Statistics",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "1",
+    "key": "C",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['C']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m6rj2ysd",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "20",
+    "key": null,
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "explanation 20: MATCH",
+    "notes": [
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  },
+  {
+    "id": "m9fnuqki",
+    "subject": "MATHEMATICS",
+    "chapter": "Sequences And Series",
+    "verdict": "VERIFIED (teacher confirm)",
+    "derived": "129",
+    "key": "B",
+    "statuses": [
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "numerical": "",
+    "notes": [
+      "derived option(s): ['B']",
+      "key source is provisional: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "file": "maths_series_stats.py",
+    "note": ""
+  }
+]

@@ -1,0 +1,85 @@
+{
+ "rows": [
+  [
+   "1l6jdxtys",
+   "AGREE",
+   "12",
+   "explanation:12 (medium)"
+  ],
+  [
+   "1ldydj6mi",
+   "AGREE",
+   "option ['C'] (value 2*sqrt(2))",
+   "C"
+  ],
+  [
+   "m9fnuunk",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "lv0vxcns",
+   "AGREE",
+   "option ['B'] (value 155)",
+   "B"
+  ],
+  [
+   "1l5c43tt2",
+   "AGREE",
+   "option ['D'] (value 176)",
+   "D"
+  ],
+  [
+   "lsbn4uhh",
+   "AGREE",
+   "2",
+   "explanation:2 (medium)"
+  ],
+  [
+   "1ldswo1xf",
+   "AGREE",
+   "10",
+   "explanation:10 (medium)"
+  ],
+  [
+   "JYidkRMzBiSkcHPhByjgy2xukf256blz",
+   "AGREE",
+   "405/4",
+   "explanation:101.00 (medium)"
+  ],
+  [
+   "jaoe38c1lscs7q96",
+   "NO REFERENCE",
+   "-177/10",
+   "explanation states no clear final number"
+  ],
+  [
+   "luxwdj8i",
+   "UNVERIFIABLE",
+   [
+    "not modelled: no closed-form antiderivative for sum of 1/(al + r)"
+   ],
+   null
+  ],
+  [
+   "lvc5868j",
+   "AGREE",
+   "8480/529",
+   "explanation:16 (medium)"
+  ],
+  [
+   "lv40vb6r",
+   "AGREE",
+   "575/26",
+   "explanation:22 (medium)"
+  ]
+ ],
+ "tally": {
+  "agree": 10,
+  "disagree": 0,
+  "unverifiable": 1,
+  "not formalized": 0,
+  "no reference value": 1
+ }
+}

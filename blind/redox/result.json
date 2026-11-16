@@ -1,0 +1,407 @@
+{
+ "rows": [
+  [
+   "bUz5bDaiqt75drYS",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "vmryv46T98UL1Lk5",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "Ee9Rx5oIInUG5CDx",
+   "AGREE",
+   "option ['C'] (value 2005016)",
+   "C"
+  ],
+  [
+   "6gt8nqdfhZsoiXTH",
+   "AGREE",
+   "option ['D'] (value {2, 4})",
+   "D"
+  ],
+  [
+   "xhb2zKJH6wZKhIy422O3J",
+   "AGREE",
+   "option ['B'] (value 400)",
+   "B"
+  ],
+  [
+   "AZIQSjpVsC1nOZTE",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "dJsK1dnG9eeuqU6h6B1v3",
+   "AGREE",
+   "option ['C'] (value 1)",
+   "C"
+  ],
+  [
+   "Nc3KC2d3VAtJyLmgZhERW",
+   "AGREE",
+   "option ['B'] (value 4)",
+   "B"
+  ],
+  [
+   "NEBjQdkhzIAtJZVzgZxw9",
+   "AGREE",
+   "option ['B'] (value 100)",
+   "B"
+  ],
+  [
+   "KAjBwzLqopJziWrx0DCek",
+   "AGREE",
+   "option ['C'] (value 2)",
+   "C"
+  ],
+  [
+   "ILZMXBbS6Wf9jXCoyj6rP",
+   "AGREE",
+   "option ['C'] (value 2143)",
+   "C"
+  ],
+  [
+   "BsaVZ1wbbWcIJLZwfg3rsa0w2w9jx56tijx",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "sUGLsiqlV2h6S2Ps2z7k9k2k5dyph0k",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "uOActAkQoaumecjQJo7k9k2k5epwqeu",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "vlhjHX6yKGZg6V7YU07k9k2k5idmyit",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "fJgmdZRvqRLiiFd7mUjgy2xukevksjwi",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "uNrZvCorxnp4BUjUHOjgy2xukeyh0ywx",
+   "AGREE",
+   "19",
+   "explanation:19 (medium)"
+  ],
+  [
+   "DD98dZed5YgA5ZUouyjgy2xukfchmxk0",
+   "AGREE",
+   "10",
+   "explanation:10 (medium)"
+  ],
+  [
+   "slYLNkJOzOyAXojifajgy2xukfq9pezo",
+   "AGREE",
+   "50",
+   "explanation:50 (medium)"
+  ],
+  [
+   "jR6G1U3lIXmR5hprc61klsc56n9",
+   "AGREE",
+   "159/40",
+   "explanation:4 (medium)"
+  ],
+  [
+   "9KUPMuqvsxidkPpuBO1klue8sl2",
+   "AGREE",
+   "6",
+   "explanation:6 (medium)"
+  ],
+  [
+   "91lPBnmet4BGfbFKjY1kmiunroc",
+   "AGREE",
+   "option ['A'] (value 1)",
+   "A"
+  ],
+  [
+   "9qj8Tm9aeBraxksqGm1kmm1cgbf",
+   "AGREE",
+   "option ['D'] (value 4213)",
+   "D"
+  ],
+  [
+   "1krxb954p",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "1krz034xm",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "1ks1jhofn",
+   "NO REFERENCE",
+   "1575",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l55oahmw",
+   "NO REFERENCE",
+   "30",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l58jinm1",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "1l59rrtym",
+   "AGREE",
+   "3",
+   "explanation:3 (medium)"
+  ],
+  [
+   "1l6gqai21",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "1l6i5tubb",
+   "AGREE",
+   "option ['C'] (value 1)",
+   "C"
+  ],
+  [
+   "1l6i6eqso",
+   "NO REFERENCE",
+   "4",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l6ku767y",
+   "NO REFERENCE",
+   "1",
+   "explanation states no clear final number"
+  ],
+  [
+   "1l6rl5zgs",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "1ldolmvvn",
+   "NO REFERENCE",
+   "12",
+   "explanation states no clear final number"
+  ],
+  [
+   "1ldpq62ve",
+   "NO REFERENCE",
+   "4",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lduligif",
+   "NO REFERENCE",
+   "12",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lgp3h0ep",
+   "AGREE",
+   "23",
+   "explanation:23 (medium)"
+  ],
+  [
+   "1lgvv7bnc",
+   "NO REFERENCE",
+   "3",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lgys8ty2",
+   "AGREE",
+   "option ['A'] (value 0)",
+   "A"
+  ],
+  [
+   "1lgyt55ii",
+   "AGREE",
+   "10",
+   "explanation:10 (medium)"
+  ],
+  [
+   "1lh031a7t",
+   "AGREE",
+   "option ['A'] (value 10)",
+   "A"
+  ],
+  [
+   "1lh27pci2",
+   "AGREE",
+   "option ['A'] (value {1, 2})",
+   "A"
+  ],
+  [
+   "1lh29uyl4",
+   "NO REFERENCE",
+   "6",
+   "explanation states no clear final number"
+  ],
+  [
+   "lsblv392",
+   "AGREE",
+   "option ['A'] (value {1, 2})",
+   "A"
+  ],
+  [
+   "lsbmpghu",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "jaoe38c1lscrqpvw",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "jaoe38c1lsda2rjf",
+   "NO REFERENCE",
+   "6",
+   "explanation states no clear final number"
+  ],
+  [
+   "jaoe38c1lsda6dnv",
+   "AGREE",
+   "8",
+   "explanation:8 (medium)"
+  ],
+  [
+   "jaoe38c1lsfjgqcy",
+   "AGREE",
+   "option ['B'] (value 1002001001)",
+   "B"
+  ],
+  [
+   "jaoe38c1lsfjzybv",
+   "AGREE",
+   "option ['B'] (value {2})",
+   "B"
+  ],
+  [
+   "jaoe38c1lsfpnil4",
+   "NO REFERENCE",
+   "1",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lsg8687o",
+   "NO REFERENCE",
+   "6",
+   "explanation states no clear final number"
+  ],
+  [
+   "1lsgz3rvm",
+   "AGREE",
+   "8",
+   "explanation:8 (high)"
+  ],
+  [
+   "lv0vyra5",
+   "AGREE",
+   "8",
+   "explanation:8 (medium)"
+  ],
+  [
+   "lv2ers4s",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "lv5gt1sb",
+   "AGREE",
+   "option ['C'] (value {3})",
+   "C"
+  ],
+  [
+   "lvb29icb",
+   "AGREE",
+   "option ['C'] (value 2)",
+   "C"
+  ],
+  [
+   "lvb29nmy",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "m6qk9bth",
+   "AGREE",
+   "option ['D'] (value {1, 4})",
+   "D"
+  ],
+  [
+   "m6qvb2if",
+   "NO REFERENCE",
+   "216164/4825",
+   "explanation states no clear final number"
+  ],
+  [
+   "m6rp69zw",
+   "AGREE",
+   "option ['A'] (value {1})",
+   "A"
+  ],
+  [
+   "m6w9o93c",
+   "AGREE",
+   "option ['C'] (value 11)",
+   "C"
+  ],
+  [
+   "m6w9o9wt",
+   "AGREE",
+   "option ['D'] (value {4})",
+   "D"
+  ],
+  [
+   "m6w9o9xm",
+   "AGREE",
+   "option ['A'] (value {1, 2, 3})",
+   "A"
+  ],
+  [
+   "m9ghxnw0",
+   "AGREE",
+   "10",
+   "explanation:10 (medium)"
+  ]
+ ],
+ "tally": {
+  "agree": 53,
+  "disagree": 0,
+  "unverifiable": 0,
+  "not formalized": 0,
+  "no reference value": 13
+ }
+}

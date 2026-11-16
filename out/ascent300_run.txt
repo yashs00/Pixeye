@@ -1,0 +1,264 @@
+CHEM m6ulvpaf   VERIFIED (teacher confirm)               derived={1, 2, 3}                key=C 
+CHEM m6rlr6nx   VERIFIED (teacher confirm)               derived=3142                     key=A 
+CHEM m9ghxn8x   VERIFIED                                 derived={4}                      key=D 
+CHEM m6w9nzt0   VERIFIED                                 derived={3}                      key=C 
+CHEM m6ulv930   VERIFIED (teacher confirm)               derived={3}                      key=C 
+CHEM m9gxges1   VERIFIED (teacher confirm)               derived=10                       key=D 
+CHEM m6qvb5mn   VERIFIED                                 derived=6                        key=None 
+CHEM m6ulvpvl   VERIFIED                                 derived={4}                      key=A 
+CHEM m6w9nzrv   VERIFIED                                 derived={1, 4, 5}                key=B 
+CHEM m6srmyge   VERIFIED (teacher confirm)               derived=11                       key=C 
+CHEM m9e5j4cy   VERIFIED (teacher confirm)               derived=24                       key=B 
+CHEM m9gxgbtk   VERIFIED (teacher confirm)               derived={3, 5}                   key=C 
+CHEM m9gxgbh6   VERIFIED                                 derived=sqrt(15)                 key=None explanation 4: MATCH
+CHEM m6w9nzr0   VERIFIED (teacher confirm)               derived={3}                      key=C 
+CHEM m9fnus9d   VERIFIED (teacher confirm)               derived=6                        key=None explanation 6: MATCH
+CHEM m9gxgc8q   VERIFIED (teacher confirm)               derived=10                       key=A 
+CHEM m9ghxnoz   VERIFIED                                 derived={1, 4}                   key=C 
+CHEM m6rp62gr   VERIFIED (teacher confirm)               derived=3124                     key=C 
+CHEM m6qp1wim   VERIFIED (teacher confirm)               derived=4123                     key=D 
+CHEM m6v42g9h   VERIFIED (teacher confirm)               derived=10                       key=C 
+CHEM m9em61gf   VERIFIED                                 derived={4}                      key=D 
+CHEM m9e5j4f8   VERIFIED                                 derived={4}                      key=D 
+CHEM m6rlxhp4   VERIFIED (teacher confirm)               derived={2, 3, 5}                key=C 
+CHEM m9e5j9ov   VERIFIED                                 derived=3421                     key=D 
+CHEM m9e5ja7r   VERIFIED (teacher confirm)               derived=1                        key=B 
+CHEM m9ghxnwx   VERIFIED                                 derived=33                       key=None explanation 33: MATCH
+CHEM m9e5j9s5   VERIFIED (teacher confirm)               derived={1}                      key=A 
+CHEM m6ulvplb   VERIFIED (teacher confirm)               derived={3}                      key=C 
+CHEM m9dunnwm   VERIFIED (teacher confirm)               derived={2}                      key=B 
+CHEM m9duiucn   VERIFIED                                 derived=3421                     key=C 
+CHEM m9fnus4d   VERIFIED                                 derived={1, 2, 5}                key=B 
+CHEM m6w9o4nh   VERIFIED (teacher confirm)               derived=1                        key=C 
+CHEM m9elqyz2   VERIFIED (teacher confirm)               derived=0                        key=B 
+CHEM m6qlgmot   VERIFIED                                 derived=12                       key=None explanation 12: MATCH
+CHEM m6ulvdu9   VERIFIED (teacher confirm)               derived={1, 3, 4}                key=C 
+CHEM m6qk2aop   VERIFIED (teacher confirm)               derived={1, 3, 4}                key=A 
+CHEM m6v42tdx   VERIFIED                                 derived=3142                     key=A 
+CHEM m6srn66j   VERIFIED                                 derived=4213                     key=C 
+CHEM m6t9xwyg   VERIFIED (teacher confirm)               derived={4}                      key=D 
+CHEM m6qvbrfa   VERIFIED (teacher confirm)               derived={2}                      key=B 
+CHEM m6t9yfuy   VERIFIED (teacher confirm)               derived={3}                      key=C 
+CHEM m6t9xwuz   VERIFIED (teacher confirm)               derived=4312                     key=B 
+CHEM m6srmtnf   VERIFIED                                 derived={1}                      key=A 
+CHEM m6rp6jyr   VERIFIED                                 derived=11                       key=None explanation 11: MATCH
+CHEM m6qvb8sd   VERIFIED                                 derived={1, 2}                   key=D 
+CHEM m6qrgsyy   VERIFIED (teacher confirm)               derived=159687/1000              key=None explanation 160: MATCH
+CHEM m6qpcoxo   VERIFIED (teacher confirm)               derived={4}                      key=D 
+CHEM m6rlt43b   VERIFIED (teacher confirm)               derived=5                        key=B 
+CHEM m9dunozb   VERIFIED                                 derived={4}                      key=D 
+CHEM m9duns8v   VERIFIED (teacher confirm)               derived={2}                      key=B 
+CHEM m9e5j5ry   VERIFIED (teacher confirm)               derived=2000/87                  key=None explanation 23: MATCH
+CHEM m9fnus6t   VERIFIED (teacher confirm)               derived=14532                    key=B 
+CHEM m9fbg4fr   VERIFIED (teacher confirm)               derived=10                       key=C 
+CHEM m9ghxnaj   NO OPTION CORRECT                        derived=2420                     key=D   <--
+                - key source is provisional: compared, but an official key is still required
+                - options.cardinality=FAILED: single-correct item has 0 correct options []
+                - key.matches_derivation=FAILED: declared ['D'] but derivation gives []
+CHEM m9dunrnc   VERIFIED (teacher confirm)               derived=21354                    key=C 
+CHEM m9e5j4rt   VERIFIED (teacher confirm)               derived=327/10                   key=B 
+CHEM m6qkqo0m   VERIFIED (teacher confirm)               derived=3142                     key=A 
+CHEM m6qlella   VERIFIED (teacher confirm)               derived={2, 3}                   key=A 
+CHEM m6qoow0u   VERIFIED                                 derived={4}                      key=D 
+CHEM m6qp5l8v   VERIFIED (teacher confirm)               derived={2}                      key=B 
+CHEM m6qpiv13   VERIFIED                                 derived={3}                      key=C 
+CHEM m6qvb15l   VERIFIED (teacher confirm)               derived={1}                      key=A 
+CHEM m6qvbchf   VERIFIED (teacher confirm)               derived=324/965                  key=C 
+CHEM m6rp6jes   VERIFIED (teacher confirm)               derived=10                       key=C 
+CHEM m6ulvjab   VERIFIED (teacher confirm)               derived=10                       key=A 
+CHEM m6rmra42   VERIFIED (teacher confirm)               derived=193/100                  key=None explanation 2: MATCH
+CHEM m6srmyb5   VERIFIED                                 derived=17/10                    key=D 
+CHEM m6t9yeyy   VERIFIED                                 derived={1}                      key=A 
+CHEM m6rm3m6z   VERIFIED (teacher confirm)               derived={2, 4}                   key=D 
+CHEM m6ulv91f   VERIFIED                                 derived={1}                      key=A 
+CHEM m6v42ikg   VERIFIED                                 derived={3}                      key=C 
+CHEM m9dunp3y   VERIFIED (teacher confirm)               derived=6                        key=None explanation 6: MATCH
+CHEM m9dv7asx   VERIFIED (teacher confirm)               derived=4167/413                 key=None explanation 10: MATCH
+CHEM m9e5jawj   VERIFIED (teacher confirm)               derived=400                      key=None explanation 400: MATCH
+MATH m6v42lew   VERIFIED                                 derived=360                      key=A 
+MATH m6rp62j4   VERIFIED                                 derived=23                       key=C 
+MATH m9gxgbr9   VERIFIED                                 derived=1024/3                   key=D 
+MATH m6ulviwm   VERIFIED                                 derived=567/121                  key=B 
+MATH m9gxgbv7   VERIFIED                                 derived=-1 + 2*sqrt(2)           key=B 
+MATH m9fnur2t   VERIFIED                                 derived=12                       key=None explanation 12: MATCH
+MATH m6w9o8s1   VERIFIED                                 derived=157/72                   key=B 
+MATH m9dmr7qo   VERIFIED                                 derived=36                       key=C 
+MATH m6t9xsvp   VERIFIED                                 derived=256*pi                   key=D 
+MATH m9e5j2cm   VERIFIED                                 derived=3                        key=None explanation 3: MATCH
+MATH m6rp6a4c   VERIFIED                                 derived=8/3                      key=A 
+MATH m9dqv4qg   VERIFIED                                 derived=50                       key=A 
+MATH m9e5j6z6   VERIFIED                                 derived=250                      key=B 
+MATH m9doiwrb   VERIFIED                                 derived=10                       key=B 
+MATH m6t9xsmf   VERIFIED                                 derived=5                        key=B 
+MATH m9ghxloj   VERIFIED                                 derived=1/2                      key=D 
+MATH m6srmtsp   VERIFIED                                 derived=77                       key=None explanation 77: MATCH
+MATH m9ghxm4n   VERIFIED                                 derived=368                      key=None explanation 368: MATCH
+MATH m9gxgb7g   VERIFIED                                 derived=3                        key=A 
+MATH m6qhukji   VERIFIED                                 derived=33                       key=C 
+MATH m6qvbck4   VERIFIED                                 derived=-16 + 6*pi               key=D 
+MATH m9dunrsb   VERIFIED                                 derived=22                       key=None explanation 22: MATCH
+MATH m9dmvgsu   VERIFIED                                 derived=15                       key=None explanation 15: MATCH
+MATH m9fnusfr   VERIFIED                                 derived=18                       key=D 
+MATH m6srmtjm   VERIFIED                                 derived=30                       key=None explanation 30: MATCH
+MATH m9duno8j   VERIFIED                                 derived=37                       key=B 
+MATH m6rhys7x   VERIFIED                                 derived=-1/3 + pi/2              key=B 
+MATH m6qhunl7   VERIFIED                                 derived=14                       key=A 
+MATH m9e5j745   VERIFIED                                 derived=211/10                   key=A 
+MATH m6v42lc7   VERIFIED                                 derived=1 - log(2)               key=C 
+MATH m6ulvj5e   VERIFIED                                 derived=20/3                     key=C 
+MATH m6w9o8uw   VERIFIED                                 derived=64/3                     key=B 
+MATH m6srn27t   VERIFIED (teacher confirm)               derived=-1080                    key=C 
+MATH m6qhsfy4   VERIFIED (teacher confirm)               derived=100                      key=A 
+MATH m6qvaza3   VERIFIED (teacher confirm)               derived=784                      key=B 
+MATH m6v42x9m   VERIFIED (teacher confirm)               derived=515                      key=D 
+MATH m6srn6ee   VERIFIED (teacher confirm)               derived=44                       key=B 
+MATH m6ulvixl   VERIFIED (teacher confirm)               derived=25                       key=D 
+MATH m6qi9jv4   VERIFIED (teacher confirm)               derived=11132                    key=None explanation 11132: MATCH
+MATH m9dowfw9   VERIFIED (teacher confirm)               derived=64                       key=D 
+MATH m9fnusib   VERIFIED (teacher confirm)               derived=421                      key=B 
+MATH m9dunoqg   VERIFIED (teacher confirm)               derived=11                       key=C 
+MATH m6t9xt0i   VERIFIED (teacher confirm)               derived=8788                     key=None explanation 8788: MATCH
+MATH m6w9o103   VERIFIED (teacher confirm)               derived=126                      key=B 
+MATH m9gxgcpa   VERIFIED (teacher confirm)               derived=16                       key=B 
+MATH m9gxgedv   VERIFIED (teacher confirm)               derived=2*E                      key=B 
+MATH m9fnuqlo   VERIFIED (teacher confirm)               derived=7240                     key=A 
+MATH m9fnusx5   VERIFIED (teacher confirm)               derived=540                      key=A 
+MATH m9ghxld2   VERIFIED (teacher confirm)               derived=3761                     key=D 
+MATH m9ghxljj   VERIFIED (teacher confirm)               derived=41880                    key=B 
+MATH m9dqr6zu   VERIFIED (teacher confirm)               derived=757                      key=A 
+MATH m9d9bl5d   VERIFIED (teacher confirm)               derived=15                       key=D 
+MATH m9e5j78z   VERIFIED (teacher confirm)               derived=216                      key=B 
+MATH m6v437u1   VERIFIED (teacher confirm)               derived=6                        key=D 
+MATH m6t9xszy   VERIFIED (teacher confirm)               derived=474                      key=None explanation 474: MATCH
+MATH m9e5j28m   VERIFIED (teacher confirm)               derived=441                      key=None explanation 441: MATCH
+MATH m9e5j1on   VERIFIED (teacher confirm)               derived=4                        key=B 
+MATH m6w9o8zv   VERIFIED (teacher confirm)               derived=154613256219603386254137 key=B 
+MATH m6rp5uwi   VERIFIED (teacher confirm)               derived=5                        key=D 
+MATH m6qgq07h   VERIFIED (teacher confirm)               derived=90                       key=B 
+MATH m6rirljj   VERIFIED (teacher confirm)               derived=675                      key=B 
+MATH m9e5j642   VERIFIED (teacher confirm)               derived=449                      key=C 
+MATH m9e5j0pj   VERIFIED (teacher confirm)               derived=103                      key=A 
+MATH m6ulvphu   VERIFIED (teacher confirm)               derived=7                        key=B 
+MATH m9fnusdf   VERIFIED (teacher confirm)               derived=1                        key=C 
+MATH m6rj2ysd   VERIFIED (teacher confirm)               derived=20                       key=None explanation 20: MATCH
+MATH m9fnuqki   VERIFIED (teacher confirm)               derived=129                      key=B 
+MATH m9gxgc3j   VERIFIED (teacher confirm)               derived=3*pi/4                   key=C 
+MATH m9gxgbou   VERIFIED (teacher confirm)               derived=14                       key=D 
+MATH m9ghxlv3   VERIFIED (teacher confirm)               derived=47                       key=C 
+MATH m9fnusmt   VERIFIED (teacher confirm)               derived=54                       key=D 
+MATH m9fnusxt   VERIFIED (teacher confirm)               derived=2/3                      key=D 
+MATH m9fnuquv   VERIFIED (teacher confirm)               derived=25                       key=A 
+MATH m9ghxlbb   VERIFIED (teacher confirm)               derived=46                       key=D 
+MATH m9e5j71s   VERIFIED (teacher confirm)               derived=-3                       key=C 
+MATH m9e5j6wn   VERIFIED (teacher confirm)               derived=1                        key=A 
+MATH m9e5j19c   VERIFIED (teacher confirm)               derived=46/3                     key=A 
+MATH m9dqnut8   VERIFIED (teacher confirm)               derived=14                       key=B 
+MATH m9dr3ju6   VERIFIED (teacher confirm)               derived=147                      key=B 
+MATH m9e5j1ma   VERIFIED (teacher confirm)               derived=23*sqrt(38)/38           key=A 
+MATH m6w9o8q5   VERIFIED (teacher confirm)               derived=2                        key=C 
+MATH m6w9o4r0   VERIFIED (teacher confirm)               derived=9                        key=B 
+MATH m9fnuqsf   VERIFIED (teacher confirm)               derived=8                        key=C 
+MATH m6v42lao   VERIFIED (teacher confirm)               derived=957                      key=None explanation 957: MATCH
+MATH m9d92b3i   VERIFIED (teacher confirm)               derived=5*sqrt(2)/3              key=B 
+MATH m6t9xskm   VERIFIED (teacher confirm)               derived=9                        key=D 
+MATH m6qhxjg2   VERIFIED (teacher confirm)               derived=27                       key=B 
+MATH m6qvb1f1   VERIFIED (teacher confirm)               derived=216                      key=None explanation 216: MATCH
+MATH m6t9xsph   VERIFIED (teacher confirm)               derived=sqrt(14)                 key=D 
+MATH m6srn3sh   VERIFIED (teacher confirm)               derived=3                        key=A 
+MATH m6rp5uy9   VERIFIED (teacher confirm)               derived=145                      key=None explanation 145: MATCH
+MATH m6qvb8x5   VERIFIED (teacher confirm)               derived=1                        key=A 
+MATH m6rp6jq4   VERIFIED (teacher confirm)               derived=136                      key=C 
+MATH m6rp5wn1   VERIFIED (teacher confirm)               derived=3*sqrt(5)                key=C 
+MATH m6qgodpk   VERIFIED (teacher confirm)               derived=25                       key=A 
+MATH m9fnusev   VERIFIED (teacher confirm)               derived=185                      key=D 
+MATH m9gxgbcx   VERIFIED (teacher confirm)               derived=141                      key=None explanation 141: MATCH
+MATH m6qh7ip4   VERIFIED (teacher confirm)               derived=3                        key=D 
+MATH m9dqjioi   VERIFIED (teacher confirm)               derived=3/5                      key=B 
+MATH m9dunpl9   VERIFIED (teacher confirm)               derived=16                       key=D 
+PHYS m6srn52d   VERIFIED (teacher confirm)               derived=sqrt(2)/2                key=C 
+PHYS m6w9nzw8   VERIFIED (teacher confirm)               derived=4                        key=None explanation 4: MATCH
+PHYS m9ghxmzt   UNVERIFIABLE / AMBIGUOUS ROUNDING (3.5)  derived=7/2                      key=None explanation 4: AMBIGUOUS ROUNDING (3.5)  <--
+                - rounding: exact value 3.5 is within 0.05 of a .5 boundary: rounding is ambiguous
+                - numerical.rounding=FAILED: exact value 3.5 is within 0.05 of a .5 boundary: rounding is ambiguous
+PHYS m6rkxfo3   VERIFIED (teacher confirm)               derived=1                        key=None explanation 1: MATCH
+PHYS m9ghxmfx   VERIFIED (teacher confirm)               derived={2, 3, 4, 5}             key=C 
+PHYS m9e5j2f6   VERIFIED (teacher confirm)               derived=3/8                      key=A 
+PHYS m9e5j3wx   VERIFIED (teacher confirm)               derived=1                        key=None explanation 1: MATCH
+PHYS m9dnmwcl   VERIFIED (teacher confirm)               derived=1/(8*pi**2)              key=A 
+PHYS m6v426tx   VERIFIED (teacher confirm)               derived=5/2                      key=C 
+PHYS m9e5j8ub   VERIFIED (teacher confirm)               derived=-1 + sqrt(3)             key=D 
+PHYS m6rjhb8t   VERIFIED (teacher confirm)               derived=157/625                  key=C 
+PHYS m9ghxmo3   VERIFIED (teacher confirm)               derived={4}                      key=D 
+PHYS m9ejm6t2   VERIFIED (teacher confirm)               derived=4                        key=B 
+PHYS m6qvblt7   VERIFIED (teacher confirm)               derived=90                       key=None explanation 90: MATCH
+PHYS m6qn64qy   VERIFIED (teacher confirm)               derived=2                        key=None explanation 2: MATCH
+PHYS m6rju9w4   VERIFIED (teacher confirm)               derived=sqrt(2)/2 + 3/2          key=B 
+PHYS m9dunp8m   VERIFIED (teacher confirm)               derived=1/4                      key=A 
+PHYS m6w9ob6b   VERIFIED (teacher confirm)               derived=16                       key=None explanation 16: MATCH
+PHYS m6srn3xq   VERIFIED (teacher confirm)               derived={1, 3, 4, 5}             key=C 
+PHYS m6v42h24   VERIFIED (teacher confirm)               derived={1}                      key=A 
+PHYS m9gxgdp9   VERIFIED (teacher confirm)               derived=8                        key=C 
+PHYS m6rja0g8   VERIFIED (teacher confirm)               derived=190                      key=C 
+PHYS m9do8yt4   VERIFIED (teacher confirm)               derived=40                       key=None explanation 40: MATCH
+PHYS m6t9xvoz   VERIFIED (teacher confirm)               derived=60                       key=A 
+PHYS m6qkgtpo   VERIFIED (teacher confirm)               derived=sqrt(2)                  key=D 
+PHYS m6ulvpn1   VERIFIED (teacher confirm)               derived=sqrt(2)/3                key=D 
+PHYS m6rp5u2s   VERIFIED (teacher confirm)               derived=1 - sqrt(3)              key=B 
+PHYS m9ghxmvv   VERIFIED (teacher confirm)               derived={3}                      key=C 
+PHYS m6qkyxgd   VERIFIED (teacher confirm)               derived=-31                      key=D 
+PHYS m9fnutuj   VERIFIED (teacher confirm)               derived=32                       key=None explanation 32: MATCH
+PHYS m9fnuree   VERIFIED (teacher confirm)               derived=7/2                      key=B 
+PHYS m9do23fv   VERIFIED (teacher confirm)               derived=3 + 4*sqrt(2) + 5*sqrt(3 key=D 
+PHYS m9dunojt   VERIFIED (teacher confirm)               derived=20                       key=A 
+PHYS m6w9oa23   VERIFIED (teacher confirm)               derived=1                        key=C 
+PHYS m6qvb92i   VERIFIED (teacher confirm)               derived=20/9                     key=B 
+PHYS m9dnisox   VERIFIED (teacher confirm)               derived={2}                      key=B 
+PHYS m9gxgby4   VERIFIED (teacher confirm)               derived=200                      key=D 
+PHYS m9dnod3o   VERIFIED (teacher confirm)               derived=2                        key=C 
+PHYS m6ulvj8c   VERIFIED (teacher confirm)               derived={3, 5}                   key=D 
+PHYS m9e5j7xb   VERIFIED (teacher confirm)               derived=2*pi/3                   key=C 
+PHYS m9gxgcl8   NO OPTION CORRECT                        derived=0                        key=C   <--
+                - key source is provisional: compared, but an official key is still required
+                - options.cardinality=FAILED: single-correct item has 0 correct options []
+                - key.matches_derivation=FAILED: declared ['C'] but derivation gives []
+PHYS m9fnutvk   VERIFIED (teacher confirm)               derived=100*sqrt(354)/(177*sqrt( key=None explanation 6: MATCH
+PHYS m9ej6s0x   VERIFIED (teacher confirm)               derived=5                        key=None explanation 5: MATCH
+PHYS m9fnurpn   VERIFIED (teacher confirm)               derived=48                       key=None explanation 48: MATCH
+PHYS m9e5j2hj   VERIFIED (teacher confirm)               derived=1                        key=A 
+PHYS m6t9xt1i   VERIFIED (teacher confirm)               derived=-30                      key=D 
+PHYS m9dunofb   VERIFIED (teacher confirm)               derived=64/125                   key=A 
+PHYS m9e5j2rw   VERIFIED (teacher confirm)               derived={1}                      key=A 
+PHYS m6v42le1   VERIFIED (teacher confirm)               derived=250                      key=None explanation 250: MATCH
+PHYS m6w9o7vn   VERIFIED (teacher confirm)               derived={2}                      key=B 
+PHYS m9dnfepu   VERIFIED (teacher confirm)               derived=sqrt(2)/(3*pi)           key=B 
+PHYS m6rp6kg1   VERIFIED (teacher confirm)               derived=1                        key=None explanation 1: MATCH
+PHYS m6ulvdwc   VERIFIED (teacher confirm)               derived=8                        key=None explanation 8: MATCH
+PHYS m6qkgtjp   VERIFIED (teacher confirm)               derived=1/2 + 2*sqrt(2)          key=C 
+PHYS m6rp62so   VERIFIED (teacher confirm)               derived=1/pi                     key=A 
+PHYS m6rp6a8d   VERIFIED (teacher confirm)               derived=2                        key=None explanation 2: MATCH
+PHYS m9ghxmmj   VERIFIED (teacher confirm)               derived=25                       key=B 
+PHYS m9gxgc4u   VERIFIED (teacher confirm)               derived=360                      key=D 
+PHYS m9fnut39   VERIFIED (teacher confirm)               derived=3                        key=C 
+PHYS m6qjznxx   VERIFIED (teacher confirm)               derived=8                        key=None explanation 8: MATCH
+PHYS m9e5j2pk   VERIFIED (teacher confirm)               derived={1}                      key=A 
+PHYS m9e8b438   VERIFIED (teacher confirm)               derived=5                        key=D 
+PHYS m6v42mhq   VERIFIED (teacher confirm)               derived=3                        key=B 
+PHYS m6rko5o0   VERIFIED (teacher confirm)               derived=1770                     key=A 
+PHYS m6qvbt5l   VERIFIED (teacher confirm)               derived=16000000                 key=B 
+PHYS m6qvbk94   VERIFIED (teacher confirm)               derived=sqrt(2)/5 + 4            key=B 
+PHYS m6qjznvt   VERIFIED (teacher confirm)               derived=1320                     key=None explanation 1320: MATCH
+PHYS m6rp5unr   VERIFIED (teacher confirm)               derived=-2*sqrt(3) - sqrt(2) + 2 key=C 
+PHYS m9fnutwn   VERIFIED (teacher confirm)               derived=15                       key=None explanation 15: MATCH
+PHYS m9ghxmak   VERIFIED (teacher confirm)               derived=50                       key=B 
+PHYS m9fnutoo   VERIFIED (teacher confirm)               derived=pi/4                     key=C 
+PHYS m9gxgde2   VERIFIED (teacher confirm)               derived=4                        key=B 
+PHYS m9dunnrf   VERIFIED (teacher confirm)               derived=157*sqrt(6*sqrt(3) + 13) key=None explanation 6: MATCH
+PHYS m9e5j875   VERIFIED (teacher confirm)               derived=sqrt(3)                  key=A 
+PHYS m9dunr0t   VERIFIED (teacher confirm)               derived=acos(sqrt(3)/3)          key=B 
+PHYS m9fnurol   VERIFIED (teacher confirm)               derived=24                       key=None explanation 24: MATCH
+PHYS m9gxgcbi   VERIFIED (teacher confirm)               derived=(1 + sqrt(2))**2/(1 - sq key=D 
+PHYS m6v42s3f   VERIFIED (teacher confirm)               derived=23/100                   key=D 
+
+CHEMISTRY    {'VERIFIED (teacher confirm)': 47, 'VERIFIED': 26, 'not formalized': 26, 'NO OPTION CORRECT': 1}
+MATHEMATICS  {'VERIFIED': 32, 'VERIFIED (teacher confirm)': 68}
+PHYSICS      {'not formalized': 22, 'VERIFIED (teacher confirm)': 76, 'UNVERIFIABLE': 1, 'NO OPTION CORRECT': 1}

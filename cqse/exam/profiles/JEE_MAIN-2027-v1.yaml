@@ -1,0 +1,21 @@
+# Source facts as recorded in the CQSE blueprint (research check 2026-11-14).
+# RE-VERIFY against the official NTA bulletin before any live use.
+profile_id: JEE_MAIN-2027-v1
+exam: JEE_MAIN
+year: 2027
+paper: "Paper 1 (B.E./B.Tech)"
+version: 1
+status: OFFICIAL
+source_url: "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf"
+source_section: "Information Bulletin - scheme of examination"
+last_verified: "2026-11-14"
+verified_by: "blueprint research check (needs in-house reviewer sign-off)"
+time_limit_minutes: 180
+subjects:
+  MATHEMATICS: &subj
+    syllabus_version: "2027"
+    sections:
+      A: {format: single_correct_mcq, questions: 20, options: 4, marks_correct: 4, marks_incorrect: -1, unanswered: 0}
+      B: {format: numerical_integer, questions: 5, marks_correct: 4, marks_incorrect: -1, unanswered: 0, rounding: nearest_integer}
+  PHYSICS: *subj
+  CHEMISTRY: *subj

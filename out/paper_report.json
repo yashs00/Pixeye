@@ -1,0 +1,471 @@
+[
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q01",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['C']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "2",
+    "family_key": "sha256:504ef4afd81002600f306bc66cb6e975f4e20fd90342a0754748cde60fcf5169"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q27",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "83/(16*pi)",
+    "family_key": "sha256:cf9cc2e45231b5ff467d9a3a503238a2b42c155436274113efd74e255b2b4776"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q30",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "2",
+    "family_key": "sha256:28e8dd23f38520e3aa37298138a19f43899a6d517e98b5bbb5b63996e927ef1b"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q31",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['C']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "130",
+    "family_key": "sha256:378c93dabcdf3740da11dbf015aecc34bcd4778fc0e18097afa7c6d8c0db839a"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q32",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "200/3",
+    "family_key": "sha256:56ce819bbc695b7947d38e8d56d81ac731633b96ba62b2b3c738fd3463d99d8c"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q34",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['D']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "9/4",
+    "family_key": "sha256:858dff9cb046655c31e7d0a6e32b96d022504ee5460faba8f6a97385574664aa"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q35",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['D']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "300",
+    "family_key": "sha256:aa76ec168c2bc7bbd28c2c1a78c6ace1fb13243a50ed302904a0b913ae231638"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q40",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "3/2",
+    "family_key": "sha256:99fdeb4192acfffe8ce27faae37f355a97e11bf405f1caf915c91baa227d4060"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q42",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "4",
+    "family_key": "sha256:95ec0fa4a4d65b2040f25fa5f88b7d2f5ae77c6a1c4e2d35858854c8cbd21ae2"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q43",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['A']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "200",
+    "family_key": "sha256:d85e76f8cd91469d93c52007678c43faa845b974996f001215f018c49b21b105"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q44",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['C']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "-17/45",
+    "family_key": "sha256:12f8c4493d956360f3b6c1064accf5aa37414764669010c2716cd2e1dd6ce343"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q45",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['B']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "56*pi/25",
+    "family_key": "sha256:34d9571cdfc7811bd4d7d426fa31dad2e8e54d7bbab3ef033fe4e64e8dc52412"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q46",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "rounding: exact 35.9817 -> 36",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "2826/(25*pi)",
+    "family_key": "sha256:bd44aeb3a7d55b13f2122749d267eea017d89fbae24356d6b77e6329d026aad9"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q47",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "120",
+    "family_key": "sha256:bde16b381788246974eca6eda247377c232e93606ab2f9e635c048ee335800c7"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q48",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "171",
+    "family_key": "sha256:df789e37f65e3e70d58ca178b9499b69717125f116f2ff282f436da4c1671c67"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q49",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "3",
+    "family_key": "sha256:c2718cd1f8a1982727112857c9ba5d66fd77f7ea1a2fccf9f3b1a9e3bdbe810c"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q50",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "387",
+    "family_key": "sha256:f63a5d75d49107a2be7d1edc110a07b51b69b138db06867a76ae79bfa91bb5b2"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q51",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['D']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "chemistry: reaction feasibility must be confirmed by a chemist",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "42",
+    "family_key": "sha256:77ad369fadc04c2f8adb0d8ca666a2be6303f1d3a32122f6be9e231107a4ee73"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q52",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['C']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "981/50000000000000000000",
+    "family_key": "sha256:1eff738c4996af179ac5433e7192f9a4f62d630f787535f10189226177d8898e"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q54",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['D']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "-1527",
+    "family_key": "sha256:4b10998599ad02ad9ae3220482352aba022294fe73e7410c345c79dc24299f08"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q55",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "derived option(s): ['D']",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "49/15996",
+    "family_key": "sha256:cbb86627252b22cef223052bc18ece646ee61cce7fa081f129b96a253e65d4f0"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q71",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "rounding: exact 33.3333 -> 33",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "100/3",
+    "family_key": "sha256:683f9bde1215c79c2ba8cd9f4381522e4789cccef7baa7659877178ea298c25c"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q73",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "17",
+    "family_key": "sha256:07c2872ad58bff3918a679bc31f7d3a239e0bd00a4fac42396512b01a4cd452d"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q74",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "rounding: exact 41.4048 -> 41",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "4938471/119273",
+    "family_key": "sha256:099190798623f556b50f301baa49213968db0426dcb36e8ecb81146619221bc1"
+  },
+  {
+    "pyq_id": "JEEM-2026-04-02-S1-Q75",
+    "statuses": [
+      "NEEDS_SOURCE",
+      "NEEDS_OFFICIAL_KEY",
+      "NEEDS_EXPERT_REVIEW",
+      "PARENT_VERIFIED"
+    ],
+    "notes": [
+      "rights UNKNOWN: internal search only; no derivation/display/training",
+      "key source is unofficial_reference: compared, but an official key is still required",
+      "teacher must confirm the equations model the stem",
+      "solution/key verified; stem-to-formal correspondence still needs expert confirmation"
+    ],
+    "duplicate_of": [],
+    "derived_answer": "727",
+    "family_key": "sha256:526458712683e04eadc97257702a032f5694ccb4d910cf6f1642a3ae4510c118"
+  }
+]
