@@ -97,7 +97,25 @@ def _variant(g, seed: int) -> dict | None:
     traps = {oid: {"label": _pretty(d["mistake"]), "why": d["why_students"], "wrong": d["why_wrong"]}
              for oid, d in md["distractor_origins"].items()}
     return {"key": row["externalId"], "family": g.family.id, "params": g.params, "seed": seed,
-            "status": g.status, "row": row, "traps": traps}
+            "status": g.status, "row": row, "traps": traps, "think": _think(g)}
+
+
+def _think(g) -> list[str]:
+    """The engine's own trace, for the studio's 'thinking' strip: real verification records, not theatre."""
+    lines = []
+    for r in g.report.records:
+        if r.check_id in ("model.correspondence", "stem.formal_correspondence", "distractors.plausibility"):
+            continue
+        tag = {"PROVED": "proved", "EXACT_CHECKED": "exact", "RULE_CHECKED": "rule", "EXPERT_REVIEWED": "teacher"}.get(r.status.value)
+        if tag is None:
+            continue
+        method = str(r.method or "").strip()
+        result = str(r.result or "").strip()
+        lines.append(f"{r.check_id.split('.')[-1].replace('_', ' ')}  {method}  → {result}  [{tag}]")
+    for d in g.item.distractors:
+        lines.append(f"trap {d.misconception_id.lower().replace('_', ' ')}  → {d.value}")
+    lines.append(f"answer {g.item.answer.exact_answer} · {len(g.item.options) or 'numerical'} options · 1 correct")
+    return lines[:14]
 
 
 def variants(body: dict):

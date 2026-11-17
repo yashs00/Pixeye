@@ -129,3 +129,24 @@ select, input { color-scheme: dark; }
 
 /* question diagrams come from a light-background source: keep them readable on dark */
 .prose img { background: #fff; padding: 4px; border-radius: 6px; }
+
+/* ---------------------------------------------------------------- live writing / thinking / stamp */
+@keyframes vs-wipe { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 -2% 0 0); } }
+@keyframes vs-caret { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+@keyframes vs-fold { to { max-height: 0; opacity: 0; margin: 0; padding: 0; } }
+@keyframes vs-drop { from { opacity: 0; transform: translateY(-10px) scale(0.98); } to { opacity: 1; transform: none; } }
+@keyframes vs-stamp { 0% { opacity: 0; transform: rotate(-14deg) scale(2.2); } 60% { opacity: 1; transform: rotate(-14deg) scale(0.92); } 100% { transform: rotate(-14deg) scale(1); } }
+.vs-write { position: relative; animation: vs-wipe 1.2s steps(40, end) both; }
+.vs-write::after { content: ''; position: absolute; right: -0.35em; bottom: 0.35em; width: 2px; height: 1.1em;
+  background: #22e4ff; animation: vs-caret 0.7s steps(1) 6; }
+.vs-think { max-height: 20rem; overflow: hidden; animation: vs-fold 500ms ease-in both; }
+.vs-drop { animation: vs-drop 320ms cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+.vs-stamp { position: absolute; top: 14px; right: 150px; z-index: 5; pointer-events: none; padding: 4px 14px;
+  border: 3px solid #7dffb2; border-radius: 8px; color: #7dffb2; font: 800 22px/1.2 Inter, sans-serif; letter-spacing: 0.18em;
+  text-shadow: 0 0 12px rgba(125,255,178,0.6); box-shadow: 0 0 18px rgba(125,255,178,0.35), inset 0 0 12px rgba(125,255,178,0.2);
+  animation: vs-stamp 380ms cubic-bezier(0.2, 0.9, 0.3, 1.3) both; }
+@media (prefers-reduced-motion: reduce) { .vs-write, .vs-write::after, .vs-think, .vs-drop, .vs-stamp { animation-duration: 1ms !important; animation-delay: 0ms !important; } }
+
+/* idle demo mode: the eye looks around while the engine works */
+@keyframes vs-idle-look { 0%, 100% { transform: translate(0, 0); } 25% { transform: translate(2px, -1px); } 50% { transform: translate(-2px, 1px); } 75% { transform: translate(1px, 2px); } }
+.vs-idle-eye .pixeye-iris { animation: vs-idle-look 5s ease-in-out infinite; }

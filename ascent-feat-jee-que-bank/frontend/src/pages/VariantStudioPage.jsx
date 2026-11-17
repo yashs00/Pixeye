@@ -27,6 +27,48 @@ const trapText = (label) => titleCase(label.toLowerCase());
 const examLine = (q) => [q.exam?.replace('_', ' ').replace(/\bMAIN\b/, 'Main').replace(/\bJEE\b/, 'JEE'), q.year > 0 ? q.year : null]
   .filter(Boolean).join(' · ');
 
+/* ------------------------------------------------------------------ typewriter */
+
+function safeCuts(src) {
+  // indices where src.slice(0, i) is safe to render: outside HTML tags and outside $...$ / $$...$$
+  const cuts = [];
+  let i = 0;
+  while (i < src.length) {
+    const c = src[i];
+    if (c === '<') { const j = src.indexOf('>', i); i = j < 0 ? src.length : j + 1; cuts.push(i); continue; }
+    if (c === '$') {
+      const dd = src.startsWith('$$', i);
+      const close = src.indexOf(dd ? '$$' : '$', i + (dd ? 2 : 1));
+      i = close < 0 ? src.length : close + (dd ? 2 : 1);
+      cuts.push(i); continue;
+    }
+    i += 1; cuts.push(i);
+  }
+  return cuts;
+}
+
+function Typewriter({ content, delay = 0, cps = 45 }) {
+  const cuts = useMemo(() => safeCuts(content || ''), [content]);
+  const [n, setN] = useState(0);
+  const done = n >= cuts.length;
+  useEffect(() => {
+    if (!cuts.length) return undefined;
+    if (window.matchMedia?.('(prefers-reduced-motion: reduce)').matches) { setN(cuts.length); return undefined; }
+    let t;
+    const start = setTimeout(() => {
+      t = setInterval(() => setN((k) => { if (k + 1 >= cuts.length) clearInterval(t); return k + 1; }), 1000 / cps);
+    }, delay);
+    return () => { clearTimeout(start); clearInterval(t); };
+  }, [cuts, delay, cps]);
+  const shown = done ? content : (content || '').slice(0, cuts[n - 1] || 0);
+  return (
+    <span className="vs-type">
+      <MathView content={shown} className="inline" />
+      {!done && <span className="vs-caret" aria-hidden />}
+    </span>
+  );
+}
+
 /* ------------------------------------------------------------------ atoms */
 
 function Kbd({ children, tone = 'dark' }) {
@@ -104,7 +146,7 @@ function Option({ opt, correct, trap }) {
           <span className="shrink-0 inline-flex items-center gap-1 text-[13.5px] text-emerald-700"><Check className="w-4 h-4" />Correct</span>
         )}
         {trap && (
-          <span title={trap.why} className="shrink-0 max-w-[58%] truncate rounded-md bg-amber-600/[0.09] px-2.5 py-1 text-[13px] text-amber-800/90">
+          <span title={trap.why} className="vs-shake shrink-0 max-w-[58%] truncate rounded-md bg-amber-600/[0.09] px-2.5 py-1 text-[13px] text-amber-800/90">
             Trap · {trapText(trap.label)}
           </span>
         )}
@@ -134,13 +176,14 @@ function VariantCard({ v, n, index, focused, accepted, leaving, solution, onSolu
   return (
     <article
       ref={refCb}
-      className={`vs-rise rounded-2xl border bg-ink-900/80 backdrop-blur transition-[border-color,box-shadow] duration-200 ${leaving ? 'vs-out' : ''} ${
+      className={`vs-rise relative overflow-hidden rounded-2xl border bg-ink-900/80 backdrop-blur transition-[border-color,box-shadow] duration-200 ${leaving ? 'vs-out' : ''} ${
         accepted ? 'border-emerald-500/50 shadow-[0_0_0_1px_rgba(16,185,129,0.25)]'
           : focused ? 'border-transparent neon-border neon-ring'
             : 'border-white/[0.07] hover:border-white/[0.12]'
       }`}
       style={{ animationDelay: `${Math.min(index, 5) * 70}ms` }}
     >
+      {accepted && <div className="vs-stamp" aria-hidden>VERIFIED</div>}
       <header className="flex flex-wrap items-center justify-between gap-3 px-6 sm:px-8 py-5 border-b border-white/[0.06]">
         <div className="flex items-center gap-3 text-[14.5px] text-ink-400">
           <span className="font-medium tracking-wide">VAR-{String(n).padStart(2, '0')}</span>
@@ -153,7 +196,18 @@ function VariantCard({ v, n, index, focused, accepted, leaving, solution, onSolu
       </header>
 
       <div className="px-6 sm:px-8 pt-6 pb-5 space-y-6">
-        <div className="text-[18px] leading-[1.75] text-ink-100 max-w-[78ch]"><MathView content={row.questionContent?.content} /></div>
+        {!!v.think?.length && (
+          <ul className="vs-think font-mono text-[12px] text-ink-400 space-y-1" aria-hidden
+              style={{ animationDelay: `${600 + v.think.length * 130}ms` }}>
+            {v.think.map((line, i) => (
+              <li key={i} className="vs-rise flex items-start gap-2 whitespace-pre-wrap break-words" style={{ animationDelay: `${i * 130}ms` }}>
+                <span className={line.startsWith('trap') ? 'text-amber-700' : 'text-emerald-700'}>{line.startsWith('trap') ? '◆' : '✓'}</span>
+                <span>{line}</span>
+              </li>
+            ))}
+          </ul>
+        )}
+        <div className="text-[18px] leading-[1.75] text-ink-100 max-w-[78ch] min-h-[1.75em]"><Typewriter content={row.questionContent?.content} delay={1100 + (v.think?.length || 0) * 130} /></div>
 
         {numerical ? (
           <div className="inline-flex items-center gap-3 rounded-xl border border-emerald-500/40 bg-emerald-500/[0.06] px-4 py-3">
@@ -163,8 +217,10 @@ function VariantCard({ v, n, index, focused, accepted, leaving, solution, onSolu
           </div>
         ) : (
           <div className="grid grid-cols-1 xl:grid-cols-2 gap-3">
-            {(row.options || []).map((o) => (
-              <Option key={o.id} opt={o} correct={correct.has(o.id)} trap={!correct.has(o.id) ? v.traps?.[o.id] : null} />
+            {(row.options || []).map((o, i) => (
+              <div key={o.id} className="vs-drop" style={{ animationDelay: `${2400 + (v.think?.length || 0) * 130 + i * 140}ms` }}>
+              <Option opt={o} correct={correct.has(o.id)} trap={!correct.has(o.id) ? v.traps?.[o.id] : null} />
+              </div>
             ))}
           </div>
         )}
@@ -236,6 +292,9 @@ export default function VariantStudioPage() {
   const [origOpen, setOrigOpen] = useState(true);
   const [pickOpen, setPickOpen] = useState(false);
   const [keysOpen, setKeysOpen] = useState(false);
+  const [idle, setIdle] = useState(false);          // demo mode: untouched for 30 s -> generates on its own
+  const idleTimer = useRef(null);
+  const IDLE_MS = 30000;
   const seedRef = useRef(1);
   const abortRef = useRef(null);
   const cardRefs = useRef([]);
@@ -337,6 +396,30 @@ export default function VariantStudioPage() {
 
   useEffect(() => { cardRefs.current[focus]?.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }, [focus]);
 
+  // ---- idle demo mode: any interaction resets the clock; after IDLE_MS the studio keeps itself alive
+  useEffect(() => {
+    const arm = () => { setIdle(false); clearTimeout(idleTimer.current); idleTimer.current = setTimeout(() => setIdle(true), IDLE_MS); };
+    arm();
+    const evs = ['mousemove', 'keydown', 'pointerdown', 'wheel', 'touchstart'];
+    evs.forEach((e) => window.addEventListener(e, arm, { passive: true }));
+    return () => { clearTimeout(idleTimer.current); evs.forEach((e) => window.removeEventListener(e, arm)); };
+  }, []);
+  useEffect(() => {
+    if (!idle || !family) return undefined;
+    let stop = false;
+    const loop = async () => {
+      while (!stop) {
+        if (pending === 0) {
+          setVariants((prev) => prev.slice(-4));            // keep the stage uncluttered
+          await generate(family, 1);
+        }
+        await new Promise((r) => setTimeout(r, 9000));      // let the trace, typing and options play out
+      }
+    };
+    loop();
+    return () => { stop = true; };
+  }, [idle, family]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const origCorrect = useMemo(() => new Set(question?.correctAnswers || []), [question]);
 
   const shell = (children) => (
@@ -404,6 +487,14 @@ export default function VariantStudioPage() {
         </div>
       </header>
 
+      {idle && (
+        <div className="vs-rise fixed inset-x-0 top-0 z-30 flex justify-center pointer-events-none">
+          <div className="mt-4 flex items-center gap-3 rounded-full border border-white/10 bg-ink-900/80 backdrop-blur px-4 py-2 text-[13px] text-ink-300 shadow-2xl shadow-black/50">
+            <span className="vs-idle-eye"><PixeyeLogo size={28} /></span>
+            <span><span className="neon-text font-semibold">PIXEYE</span> is generating on its own · move the mouse to take over</span>
+          </div>
+        </div>
+      )}
       {keysOpen && (
         <div className="vs-rise mb-8 flex flex-wrap gap-x-6 gap-y-2 rounded-xl border border-white/[0.07] bg-ink-900 px-5 py-3 text-[13px] text-ink-400">
           <span><Kbd>J</Kbd> <Kbd>K</Kbd> next / previous</span><span><Kbd>A</Kbd> accept</span><span><Kbd>R</Kbd> reject</span>
